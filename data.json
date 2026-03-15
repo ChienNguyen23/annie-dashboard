@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-03-15 22:45:02",
-  "timestamp_utc": "2026-03-15T15:45:02.872104",
+  "timestamp": "2026-03-15 23:00:01",
+  "timestamp_utc": "2026-03-15T16:00:01.756667",
   "grid_v9": {
     "equity": 511.07,
     "peak": 522.34,
@@ -10,7 +10,7 @@
     "pnl_pct": 2.21,
     "trades_count": 308,
     "total_funding": 0.1804,
-    "last_update": "2026-03-15T22:44:59.192825+00:00",
+    "last_update": "2026-03-15T22:55:18.021307+00:00",
     "positions": [
       {
         "pair": "ADA",
@@ -413,7 +413,7 @@
     "pnl_pct": 12.98,
     "trades_count": 11,
     "loss_streak": 1,
-    "last_update": "2026-03-15T22:42:56.476510+00:00",
+    "last_update": "2026-03-15T22:58:17.523055+00:00",
     "positions": [],
     "recent_trades": [
       {
