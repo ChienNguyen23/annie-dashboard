@@ -1,42 +1,23 @@
 {
-  "timestamp": "2026-03-14 13:16:16",
-  "timestamp_utc": "2026-03-14T06:16:16.080047",
+  "timestamp": "2026-03-15 10:35:28",
+  "timestamp_utc": "2026-03-15T03:35:28.525294",
   "grid_v9": {
-    "equity": 511.33,
+    "equity": 511.47,
     "peak": 522.34,
-    "drawdown_pct": 2.11,
+    "drawdown_pct": 2.08,
     "capital": 500.0,
-    "pnl": 11.33,
-    "pnl_pct": 2.27,
-    "trades_count": 301,
+    "pnl": 11.47,
+    "pnl_pct": 2.29,
+    "trades_count": 303,
     "total_funding": 0.1753,
-    "last_update": "2026-03-14T13:05:48.664598+00:00",
-    "positions": [
-      {
-        "pair": "BTC",
-        "side": "long",
-        "entry": 71019.69411870933,
-        "size": 51.339053290658384,
-        "tp": 71516.83197754029,
-        "sl": 70475.061767096,
-        "kz": "NY_PM"
-      },
-      {
-        "pair": "AVAX",
-        "side": "long",
-        "entry": 9.738123984548075,
-        "size": 51.267471213451905,
-        "tp": 9.806290852439911,
-        "sl": 9.629528965233169,
-        "kz": "NY_PM"
-      }
-    ],
+    "last_update": "2026-03-15T10:33:48.165575+00:00",
+    "positions": [],
     "pair_stats": {
       "BTC": {
-        "pnl": 0.1593,
-        "fees": 0.9062,
+        "pnl": 0.3407,
+        "fees": 0.9318,
         "trades": 34,
-        "wins": 19,
+        "wins": 20,
         "losses": 14
       },
       "ETH": {
@@ -68,11 +49,11 @@
         "losses": 13
       },
       "AVAX": {
-        "pnl": 0.6986,
-        "fees": 0.7035,
+        "pnl": 0.6565,
+        "fees": 0.7291,
         "trades": 28,
         "wins": 18,
-        "losses": 9
+        "losses": 10
       },
       "SOL": {
         "pnl": 2.0825,
@@ -90,16 +71,16 @@
       }
     },
     "stats": {
-      "total": 301,
-      "wins": 204,
-      "losses": 97,
-      "wr": 67.8,
+      "total": 303,
+      "wins": 205,
+      "losses": 98,
+      "wr": 67.7,
       "pf": 1.26,
-      "avg_win": 0.3481,
-      "avg_loss": 0.5821,
+      "avg_win": 0.3473,
+      "avg_loss": 0.5765,
       "best": 0.36,
       "worst": -0.79,
-      "total_pnl": 14.56
+      "total_pnl": 14.7
     },
     "equity_curve": [
       500.0,
@@ -403,39 +384,41 @@
       515.48,
       514.81,
       514.21,
-      514.56
+      514.56,
+      514.74,
+      514.7
     ]
   },
   "ict_2025": {
-    "equity": 568.87,
+    "equity": 564.92,
     "peak": 568.87,
-    "drawdown_pct": 0.0,
+    "drawdown_pct": 0.69,
     "capital": 500.0,
-    "pnl": 68.87,
-    "pnl_pct": 13.77,
-    "trades_count": 10,
-    "loss_streak": 0,
-    "last_update": "2026-03-14T13:00:34.504925+00:00",
-    "positions": [
+    "pnl": 64.92,
+    "pnl_pct": 12.98,
+    "trades_count": 11,
+    "loss_streak": 1,
+    "last_update": "2026-03-15T10:33:58.184907+00:00",
+    "positions": [],
+    "recent_trades": [
       {
         "pair": "ETH",
         "direction": "long",
         "entry": 2100.17,
-        "sl": 2081.1848915633786,
-        "tp": 2138.140216873243,
-        "size": 1258.5903439934332,
+        "exit": 2096.1,
+        "pnl": -3.95,
         "score": 8,
-        "rr": 2.0,
+        "rr_actual": -0.5,
         "kz": "NY_PM",
+        "entry_time": "2026-03-13 18:19",
+        "exit_time": "2026-03-15 10:33",
         "quality": [
           "MACRO",
           "STRONG_TREND",
           "FVG",
           "REJECT"
         ]
-      }
-    ],
-    "recent_trades": [
+      },
       {
         "pair": "FIL",
         "direction": "long",
@@ -611,16 +594,16 @@
       }
     ],
     "stats": {
-      "total": 10,
+      "total": 11,
       "wins": 7,
-      "losses": 3,
-      "wr": 70.0,
-      "pf": 2.68,
+      "losses": 4,
+      "wr": 63.6,
+      "pf": 2.45,
       "avg_win": 15.69,
-      "avg_loss": 13.6533,
+      "avg_loss": 11.2275,
       "best": 33.48,
       "worst": -14.88,
-      "total_pnl": 68.87
+      "total_pnl": 64.92
     },
     "equity_curve": [
       500.0,
@@ -633,12 +616,14 @@
       502.91,
       532.21,
       565.69,
-      568.87
+      568.87,
+      564.92
     ],
     "daily_loss": {
       "2026-03-11": -14.63,
       "2026-03-12": -11.45,
-      "2026-03-13": -14.88
+      "2026-03-13": -14.88,
+      "2026-03-15": -3.95
     }
   },
   "prediction": {
@@ -677,9 +662,9 @@
     "bankroll_initial": 10000.0
   },
   "portfolio": {
-    "total_equity": 1080.2,
+    "total_equity": 1076.39,
     "total_capital": 1000.0,
-    "total_pnl": 80.2,
-    "total_pnl_pct": 8.02
+    "total_pnl": 76.39,
+    "total_pnl_pct": 7.64
   }
 }
