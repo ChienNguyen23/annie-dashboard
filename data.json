@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-03-16 02:45:03",
-  "timestamp_utc": "2026-03-15T19:45:03.055255",
+  "timestamp": "2026-03-16 02:52:47",
+  "timestamp_utc": "2026-03-15T19:52:47.039517",
   "grid_v9": {
-    "equity": 512.02,
+    "equity": 512.01,
     "peak": 522.34,
     "drawdown_pct": 1.98,
     "capital": 500.0,
-    "pnl": 12.02,
+    "pnl": 12.01,
     "pnl_pct": 2.4,
     "trades_count": 311,
     "total_funding": 0.1855,
-    "last_update": "2026-03-16T02:41:20.537250+00:00",
+    "last_update": "2026-03-16T02:51:39.735948+00:00",
     "positions": [
       {
         "pair": "BTC",
@@ -46,6 +46,15 @@
         "size": 51.10298017495946,
         "tp": 9.656779189132275,
         "sl": 9.799486064413854,
+        "kz": "NY_PM"
+      },
+      {
+        "pair": "AVAX",
+        "side": "long",
+        "entry": 9.721099384822057,
+        "size": 51.20214205567188,
+        "tp": 9.78914708051581,
+        "sl": 9.6438478468772,
         "kz": "NY_PM"
       },
       {
@@ -105,8 +114,8 @@
       },
       "AVAX": {
         "pnl": 0.3173,
-        "fees": 0.8877,
-        "trades": 34,
+        "fees": 0.8979,
+        "trades": 35,
         "wins": 20,
         "losses": 13
       },
@@ -461,7 +470,7 @@
     "pnl_pct": 12.98,
     "trades_count": 11,
     "loss_streak": 1,
-    "last_update": "2026-03-16T02:43:46.539762+00:00",
+    "last_update": "2026-03-16T02:48:52.714697+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -725,9 +734,9 @@
     "bankroll_initial": 10000.0
   },
   "portfolio": {
-    "total_equity": 1076.94,
+    "total_equity": 1076.93,
     "total_capital": 1000.0,
-    "total_pnl": 76.94,
+    "total_pnl": 76.93,
     "total_pnl_pct": 7.69
   }
 }
