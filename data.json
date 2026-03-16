@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-03-17 00:16:54",
-  "timestamp_utc": "2026-03-16T17:16:54.078339",
+  "timestamp": "2026-03-17 00:30:02",
+  "timestamp_utc": "2026-03-16T17:30:02.440079",
   "grid_v9": {
     "equity": 505.86,
     "peak": 522.34,
@@ -10,7 +10,7 @@
     "pnl_pct": 1.17,
     "trades_count": 354,
     "total_funding": 0.1905,
-    "last_update": "2026-03-17T00:14:11.052624+00:00",
+    "last_update": "2026-03-17T00:29:47.909186+00:00",
     "positions": [],
     "pair_stats": {
       "BTC": {
@@ -449,7 +449,7 @@
     "pnl_pct": 12.98,
     "trades_count": 11,
     "loss_streak": 1,
-    "last_update": "2026-03-17T00:14:09.724989+00:00",
+    "last_update": "2026-03-17T00:29:49.415229+00:00",
     "positions": [
       {
         "pair": "AVAX",
