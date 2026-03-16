@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-03-16 22:01:49",
-  "timestamp_utc": "2026-03-16T15:01:49.788473",
+  "timestamp": "2026-03-16 22:15:02",
+  "timestamp_utc": "2026-03-16T15:15:02.562788",
   "grid_v9": {
-    "equity": 505.18,
+    "equity": 505.53,
     "peak": 522.34,
-    "drawdown_pct": 3.28,
+    "drawdown_pct": 3.22,
     "capital": 500.0,
-    "pnl": 5.18,
-    "pnl_pct": 1.04,
-    "trades_count": 352,
+    "pnl": 5.53,
+    "pnl_pct": 1.11,
+    "trades_count": 353,
     "total_funding": 0.1855,
-    "last_update": "2026-03-16T21:58:34.570954+00:00",
+    "last_update": "2026-03-16T22:14:19.869105+00:00",
     "positions": [
       {
         "pair": "AVAX",
@@ -19,15 +19,6 @@
         "size": 50.4869245437115,
         "tp": 10.211071149710376,
         "sl": 10.017816806341926,
-        "kz": "NY_AM"
-      },
-      {
-        "pair": "AVAX",
-        "side": "long",
-        "entry": 10.091181032195387,
-        "size": 50.485914805220624,
-        "tp": 10.161819299420753,
-        "sl": 9.96890732243962,
         "kz": "NY_AM"
       }
     ],
@@ -68,10 +59,10 @@
         "losses": 17
       },
       "AVAX": {
-        "pnl": -0.648,
-        "fees": 1.1572,
+        "pnl": -0.3047,
+        "fees": 1.1673,
         "trades": 44,
-        "wins": 24,
+        "wins": 25,
         "losses": 18
       },
       "SOL": {
@@ -90,16 +81,16 @@
       }
     },
     "stats": {
-      "total": 352,
-      "wins": 224,
+      "total": 353,
+      "wins": 225,
       "losses": 128,
-      "wr": 63.6,
-      "pf": 1.13,
+      "wr": 63.7,
+      "pf": 1.14,
       "avg_win": 0.3475,
       "avg_loss": 0.5377,
       "best": 0.36,
       "worst": -0.79,
-      "total_pnl": 9.02
+      "total_pnl": 9.36
     },
     "equity_curve": [
       500.0,
@@ -454,7 +445,8 @@
       509.68,
       509.18,
       508.68,
-      509.02
+      509.02,
+      509.36
     ]
   },
   "ict_2025": {
@@ -466,7 +458,7 @@
     "pnl_pct": 12.98,
     "trades_count": 11,
     "loss_streak": 1,
-    "last_update": "2026-03-16T21:58:43.845655+00:00",
+    "last_update": "2026-03-16T22:14:23.287381+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -730,9 +722,9 @@
     "bankroll_initial": 10000.0
   },
   "portfolio": {
-    "total_equity": 1070.1,
+    "total_equity": 1070.45,
     "total_capital": 1000.0,
-    "total_pnl": 70.1,
-    "total_pnl_pct": 7.01
+    "total_pnl": 70.45,
+    "total_pnl_pct": 7.04
   }
 }
