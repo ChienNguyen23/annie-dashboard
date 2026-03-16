@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-03-17 01:15:02",
-  "timestamp_utc": "2026-03-16T18:15:02.835675",
+  "timestamp": "2026-03-17 01:16:55",
+  "timestamp_utc": "2026-03-16T18:16:55.724751",
   "grid_v9": {
     "equity": 505.86,
     "peak": 522.34,
@@ -441,33 +441,33 @@
     ]
   },
   "ict_2025": {
-    "equity": 564.92,
-    "peak": 568.87,
-    "drawdown_pct": 0.69,
+    "equity": 581.8,
+    "peak": 581.8,
+    "drawdown_pct": 0.0,
     "capital": 500.0,
-    "pnl": 64.92,
-    "pnl_pct": 12.98,
-    "trades_count": 11,
-    "loss_streak": 1,
-    "last_update": "2026-03-17T01:11:40.510498+00:00",
-    "positions": [
+    "pnl": 81.8,
+    "pnl_pct": 16.36,
+    "trades_count": 12,
+    "loss_streak": 0,
+    "last_update": "2026-03-17T01:16:50.039116+00:00",
+    "positions": [],
+    "recent_trades": [
       {
         "pair": "AVAX",
         "direction": "long",
         "entry": 10.096499999999999,
-        "sl": 10.280413949969862,
-        "tp": 10.280413949969862,
-        "size": 421.77616771708153,
+        "exit": 10.280413949969862,
+        "pnl": 16.88,
         "score": 8,
-        "rr": 2.0,
+        "rr_actual": 2.3,
         "kz": "NY_AM",
+        "entry_time": "2026-03-16 15:50",
+        "exit_time": "2026-03-17 01:16",
         "quality": [
           "SB",
           "FVG"
         ]
-      }
-    ],
-    "recent_trades": [
+      },
       {
         "pair": "ETH",
         "direction": "long",
@@ -661,16 +661,16 @@
       }
     ],
     "stats": {
-      "total": 11,
-      "wins": 7,
+      "total": 12,
+      "wins": 8,
       "losses": 4,
-      "wr": 63.6,
-      "pf": 2.45,
-      "avg_win": 15.69,
+      "wr": 66.7,
+      "pf": 2.82,
+      "avg_win": 15.8388,
       "avg_loss": 11.2275,
       "best": 33.48,
       "worst": -14.88,
-      "total_pnl": 64.92
+      "total_pnl": 81.8
     },
     "equity_curve": [
       500.0,
@@ -684,7 +684,8 @@
       532.21,
       565.69,
       568.87,
-      564.92
+      564.92,
+      581.8
     ],
     "daily_loss": {
       "2026-03-11": -14.63,
@@ -729,9 +730,9 @@
     "bankroll_initial": 10000.0
   },
   "portfolio": {
-    "total_equity": 1070.78,
+    "total_equity": 1087.66,
     "total_capital": 1000.0,
-    "total_pnl": 70.78,
-    "total_pnl_pct": 7.08
+    "total_pnl": 87.66,
+    "total_pnl_pct": 8.77
   }
 }
