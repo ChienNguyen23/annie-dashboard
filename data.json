@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-03-17 23:15:04",
-  "timestamp_utc": "2026-03-17T16:15:04.086427",
+  "timestamp": "2026-03-17 23:30:03",
+  "timestamp_utc": "2026-03-17T16:30:03.978459",
   "grid_v9": {
-    "equity": 512.61,
+    "equity": 513.29,
     "peak": 522.34,
-    "drawdown_pct": 1.86,
+    "drawdown_pct": 1.73,
     "capital": 500.0,
-    "pnl": 12.61,
-    "pnl_pct": 2.52,
-    "trades_count": 385,
+    "pnl": 13.29,
+    "pnl_pct": 2.66,
+    "trades_count": 390,
     "total_funding": 0.2517,
-    "last_update": "2026-03-17T23:11:16.053506+00:00",
+    "last_update": "2026-03-17T23:27:21.821316+00:00",
     "positions": [
       {
         "pair": "BTC",
@@ -31,24 +31,6 @@
         "kz": "NY_AM"
       },
       {
-        "pair": "XRP",
-        "side": "short",
-        "entry": 1.5066097144881263,
-        "size": 50.89141076202197,
-        "tp": 1.4960634464867093,
-        "sl": 1.5268840007084419,
-        "kz": "NY_AM"
-      },
-      {
-        "pair": "ADA",
-        "side": "long",
-        "entry": 0.28516639278508416,
-        "size": 51.162844764769716,
-        "tp": 0.2871625575345797,
-        "sl": 0.28158237474779446,
-        "kz": "NY_AM"
-      },
-      {
         "pair": "AVAX",
         "side": "short",
         "entry": 10.253415241014457,
@@ -64,33 +46,6 @@
         "size": 50.88937512594805,
         "tp": 10.197452150510019,
         "sl": 10.365181295856058,
-        "kz": "NY_AM"
-      },
-      {
-        "pair": "AVAX",
-        "side": "long",
-        "entry": 10.244052963088745,
-        "size": 51.09963190106114,
-        "tp": 10.315761333830364,
-        "sl": 10.146685370810609,
-        "kz": "NY_AM"
-      },
-      {
-        "pair": "SOL",
-        "side": "long",
-        "entry": 93.69503458819662,
-        "size": 51.13335381263152,
-        "tp": 94.35089983031399,
-        "sl": 92.63262105868816,
-        "kz": "NY_AM"
-      },
-      {
-        "pair": "LINK",
-        "side": "long",
-        "entry": 9.789502787277513,
-        "size": 51.164891339957364,
-        "tp": 9.858029306788454,
-        "sl": 9.688259755471297,
         "kz": "NY_AM"
       }
     ],
@@ -117,52 +72,52 @@
         "losses": 15
       },
       "XRP": {
-        "pnl": 0.3365,
-        "fees": 1.0357,
+        "pnl": -0.3738,
+        "fees": 1.0612,
         "trades": 39,
         "wins": 22,
-        "losses": 16
+        "losses": 17
       },
       "ADA": {
-        "pnl": 4.8496,
-        "fees": 1.5041,
+        "pnl": 5.1975,
+        "fees": 1.5143,
         "trades": 61,
-        "wins": 43,
+        "wins": 44,
         "losses": 17
       },
       "AVAX": {
-        "pnl": 0.7364,
-        "fees": 1.3246,
+        "pnl": 1.0838,
+        "fees": 1.3348,
         "trades": 52,
-        "wins": 30,
+        "wins": 31,
         "losses": 19
       },
       "SOL": {
-        "pnl": 1.9393,
-        "fees": 1.4174,
+        "pnl": 2.287,
+        "fees": 1.4277,
         "trades": 56,
-        "wins": 37,
+        "wins": 38,
         "losses": 18
       },
       "LINK": {
-        "pnl": 4.8903,
-        "fees": 1.3067,
+        "pnl": 5.2382,
+        "fees": 1.3169,
         "trades": 53,
-        "wins": 37,
+        "wins": 38,
         "losses": 15
       }
     },
     "stats": {
-      "total": 385,
-      "wins": 253,
-      "losses": 132,
-      "wr": 65.7,
-      "pf": 1.24,
+      "total": 390,
+      "wins": 257,
+      "losses": 133,
+      "wr": 65.9,
+      "pf": 1.25,
       "avg_win": 0.3472,
-      "avg_loss": 0.5373,
+      "avg_loss": 0.5386,
       "best": 0.36,
       "worst": -0.79,
-      "total_pnl": 16.91
+      "total_pnl": 17.6
     },
     "equity_curve": [
       500.0,
@@ -550,7 +505,12 @@
       515.86,
       516.21,
       516.56,
-      516.91
+      516.91,
+      517.26,
+      517.61,
+      516.9,
+      517.25,
+      517.6
     ]
   },
   "ict_2025": {
@@ -562,7 +522,7 @@
     "pnl_pct": 16.36,
     "trades_count": 12,
     "loss_streak": 0,
-    "last_update": "2026-03-17T23:14:18.705660+00:00",
+    "last_update": "2026-03-17T23:25:06.052433+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -843,9 +803,9 @@
     "bankroll_initial": 10000.0
   },
   "portfolio": {
-    "total_equity": 1094.41,
+    "total_equity": 1095.09,
     "total_capital": 1000.0,
-    "total_pnl": 94.41,
-    "total_pnl_pct": 9.44
+    "total_pnl": 95.09,
+    "total_pnl_pct": 9.51
   }
 }
