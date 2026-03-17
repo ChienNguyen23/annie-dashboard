@@ -1,17 +1,36 @@
 {
-  "timestamp": "2026-03-17 14:00:04",
-  "timestamp_utc": "2026-03-17T07:00:04.098470",
+  "timestamp": "2026-03-17 14:10:05",
+  "timestamp_utc": "2026-03-17T07:10:05.157824",
   "grid_v9": {
-    "equity": 506.37,
+    "equity": 506.35,
     "peak": 522.34,
     "drawdown_pct": 3.06,
     "capital": 500.0,
-    "pnl": 6.37,
+    "pnl": 6.35,
     "pnl_pct": 1.27,
     "trades_count": 361,
     "total_funding": 0.1905,
-    "last_update": "2026-03-17T13:59:05.219304+00:00",
-    "positions": [],
+    "last_update": "2026-03-17T14:09:48.213367+00:00",
+    "positions": [
+      {
+        "pair": "AVAX",
+        "side": "long",
+        "entry": 10.280040049337348,
+        "size": 50.63748177851431,
+        "tp": 10.352000329682708,
+        "sl": 10.157640172680717,
+        "kz": "LONDON"
+      },
+      {
+        "pair": "LINK",
+        "side": "long",
+        "entry": 9.780497622844404,
+        "size": 50.63646902887874,
+        "tp": 9.848961106204314,
+        "sl": 9.671741679955415,
+        "kz": "LONDON"
+      }
+    ],
     "pair_stats": {
       "BTC": {
         "pnl": -0.113,
@@ -50,8 +69,8 @@
       },
       "AVAX": {
         "pnl": -0.2986,
-        "fees": 1.2331,
-        "trades": 46,
+        "fees": 1.2432,
+        "trades": 47,
         "wins": 27,
         "losses": 19
       },
@@ -64,8 +83,8 @@
       },
       "LINK": {
         "pnl": 3.7023,
-        "fees": 1.1591,
-        "trades": 46,
+        "fees": 1.1693,
+        "trades": 47,
         "wins": 32,
         "losses": 14
       }
@@ -456,7 +475,7 @@
     "pnl_pct": 16.36,
     "trades_count": 12,
     "loss_streak": 0,
-    "last_update": "2026-03-17T13:57:31.381633+00:00",
+    "last_update": "2026-03-17T14:08:13.673550+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -737,9 +756,9 @@
     "bankroll_initial": 10000.0
   },
   "portfolio": {
-    "total_equity": 1088.17,
+    "total_equity": 1088.15,
     "total_capital": 1000.0,
-    "total_pnl": 88.17,
+    "total_pnl": 88.15,
     "total_pnl_pct": 8.82
   }
 }
