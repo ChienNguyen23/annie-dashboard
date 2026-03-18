@@ -1,26 +1,17 @@
 {
-  "timestamp": "2026-03-18 18:30:01",
-  "timestamp_utc": "2026-03-18T11:30:01.187261",
+  "timestamp": "2026-03-18 18:33:52",
+  "timestamp_utc": "2026-03-18T11:33:52.268631",
   "grid_v9": {
-    "equity": 517.99,
+    "equity": 516.77,
     "peak": 522.34,
-    "drawdown_pct": 0.83,
+    "drawdown_pct": 1.07,
     "capital": 500.0,
-    "pnl": 17.99,
-    "pnl_pct": 3.6,
-    "trades_count": 412,
+    "pnl": 16.77,
+    "pnl_pct": 3.35,
+    "trades_count": 416,
     "total_funding": 0.2981,
-    "last_update": "2026-03-18T18:25:16.798970+00:00",
+    "last_update": "2026-03-18T18:30:18.737691+00:00",
     "positions": [
-      {
-        "pair": "BTC",
-        "side": "short",
-        "entry": 74145.4687353382,
-        "size": 51.721444831868276,
-        "tp": 73626.45045419084,
-        "sl": 74699.1405736837,
-        "kz": "ASIA"
-      },
       {
         "pair": "BTC",
         "side": "short",
@@ -28,33 +19,6 @@
         "size": 51.73369887932779,
         "tp": 73410.5819001616,
         "sl": 74405.7745725736,
-        "kz": "LONDON"
-      },
-      {
-        "pair": "DOGE",
-        "side": "long",
-        "entry": 0.09963542130927334,
-        "size": 51.73938982580527,
-        "tp": 0.10033286925843825,
-        "sl": 0.0985989745824567,
-        "kz": "LONDON"
-      },
-      {
-        "pair": "XRP",
-        "side": "long",
-        "entry": 1.5190331751417316,
-        "size": 51.73835503800875,
-        "tp": 1.5296664073677235,
-        "sl": 1.5033661129960605,
-        "kz": "LONDON"
-      },
-      {
-        "pair": "AVAX",
-        "side": "long",
-        "entry": 10.22905709249739,
-        "size": 51.73732027090799,
-        "tp": 10.300660492144871,
-        "sl": 10.144199823740868,
         "kz": "LONDON"
       },
       {
@@ -69,10 +33,10 @@
     ],
     "pair_stats": {
       "BTC": {
-        "pnl": 0.3976,
-        "fees": 1.3651,
+        "pnl": 0.7493,
+        "fees": 1.3755,
         "trades": 51,
-        "wins": 28,
+        "wins": 29,
         "losses": 21
       },
       "ETH": {
@@ -83,18 +47,18 @@
         "losses": 12
       },
       "DOGE": {
-        "pnl": 1.1446,
-        "fees": 1.165,
+        "pnl": 0.5805,
+        "fees": 1.1909,
         "trades": 46,
         "wins": 30,
-        "losses": 15
+        "losses": 16
       },
       "XRP": {
-        "pnl": -0.9628,
-        "fees": 1.1077,
+        "pnl": -1.5223,
+        "fees": 1.1336,
         "trades": 41,
         "wins": 22,
-        "losses": 18
+        "losses": 19
       },
       "ADA": {
         "pnl": 6.25,
@@ -104,11 +68,11 @@
         "losses": 17
       },
       "AVAX": {
-        "pnl": 2.1257,
-        "fees": 1.3861,
+        "pnl": 1.6706,
+        "fees": 1.4119,
         "trades": 54,
         "wins": 34,
-        "losses": 19
+        "losses": 20
       },
       "SOL": {
         "pnl": 2.0232,
@@ -126,16 +90,16 @@
       }
     },
     "stats": {
-      "total": 412,
-      "wins": 276,
-      "losses": 136,
-      "wr": 67.0,
-      "pf": 1.31,
+      "total": 416,
+      "wins": 277,
+      "losses": 139,
+      "wr": 66.6,
+      "pf": 1.29,
       "avg_win": 0.3474,
-      "avg_loss": 0.539,
+      "avg_loss": 0.5387,
       "best": 0.36,
       "worst": -0.79,
-      "total_pnl": 22.59
+      "total_pnl": 21.36
     },
     "equity_curve": [
       500.0,
@@ -550,7 +514,11 @@
       521.54,
       521.89,
       522.24,
-      522.59
+      522.59,
+      522.94,
+      522.38,
+      521.82,
+      521.36
     ]
   },
   "ict_2025": {
@@ -562,7 +530,7 @@
     "pnl_pct": 16.36,
     "trades_count": 12,
     "loss_streak": 0,
-    "last_update": "2026-03-18T18:26:30.507778+00:00",
+    "last_update": "2026-03-18T18:31:31.219247+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -843,9 +811,9 @@
     "bankroll_initial": 10000.0
   },
   "portfolio": {
-    "total_equity": 1099.79,
+    "total_equity": 1098.57,
     "total_capital": 1000.0,
-    "total_pnl": 99.79,
-    "total_pnl_pct": 9.98
+    "total_pnl": 98.57,
+    "total_pnl_pct": 9.86
   }
 }
