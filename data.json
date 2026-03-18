@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-03-18 07:26:51",
-  "timestamp_utc": "2026-03-18T00:26:51.121252",
+  "timestamp": "2026-03-18 07:30:01",
+  "timestamp_utc": "2026-03-18T00:30:01.228850",
   "grid_v9": {
     "equity": 516.55,
     "peak": 522.34,
@@ -525,7 +525,7 @@
     "pnl_pct": 16.36,
     "trades_count": 12,
     "loss_streak": 0,
-    "last_update": "2026-03-18T07:22:51.349905+00:00",
+    "last_update": "2026-03-18T07:27:51.672681+00:00",
     "positions": [],
     "recent_trades": [
       {
