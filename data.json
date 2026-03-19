@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-03-19 21:45:02",
-  "timestamp_utc": "2026-03-19T14:45:02.501867",
+  "timestamp": "2026-03-19 22:00:02",
+  "timestamp_utc": "2026-03-19T15:00:02.542118",
   "grid_v9": {
-    "equity": 519.75,
+    "equity": 520.08,
     "peak": 522.34,
-    "drawdown_pct": 0.5,
+    "drawdown_pct": 0.43,
     "capital": 500.0,
-    "pnl": 19.75,
-    "pnl_pct": 3.95,
-    "trades_count": 496,
+    "pnl": 20.08,
+    "pnl_pct": 4.02,
+    "trades_count": 497,
     "total_funding": 0.3592,
-    "last_update": "2026-03-19T21:40:19.563267+00:00",
+    "last_update": "2026-03-19T21:56:05.421871+00:00",
     "positions": [
       {
         "pair": "ETH",
@@ -49,21 +49,30 @@
         "kz": "NY_AM"
       },
       {
+        "pair": "DOGE",
+        "side": "short",
+        "entry": 0.09295466797128,
+        "size": 51.975057218298474,
+        "tp": 0.09230398529548105,
+        "sl": 0.09401633789948004,
+        "kz": "NY_AM"
+      },
+      {
+        "pair": "XRP",
+        "side": "short",
+        "entry": 1.4458810761740526,
+        "size": 51.97401771715411,
+        "tp": 1.4357599086408341,
+        "sl": 1.4610837666091843,
+        "kz": "NY_AM"
+      },
+      {
         "pair": "ADA",
         "side": "short",
         "entry": 0.2651319737923289,
         "size": 51.97713628295894,
         "tp": 0.2632760499757826,
         "sl": 0.268211908273151,
-        "kz": "NY_AM"
-      },
-      {
-        "pair": "SOL",
-        "side": "long",
-        "entry": 87.45253914606452,
-        "size": 51.976096740233274,
-        "tp": 88.06470692008696,
-        "sl": 86.48388701122583,
         "kz": "NY_AM"
       }
     ],
@@ -84,15 +93,15 @@
       },
       "DOGE": {
         "pnl": -1.0746,
-        "fees": 1.4836,
-        "trades": 58,
+        "fees": 1.4939,
+        "trades": 59,
         "wins": 34,
         "losses": 21
       },
       "XRP": {
         "pnl": 1.6926,
-        "fees": 1.3951,
-        "trades": 53,
+        "fees": 1.4055,
+        "trades": 54,
         "wins": 33,
         "losses": 20
       },
@@ -111,10 +120,10 @@
         "losses": 25
       },
       "SOL": {
-        "pnl": 4.734,
-        "fees": 1.7918,
+        "pnl": 5.0874,
+        "fees": 1.8022,
         "trades": 72,
-        "wins": 50,
+        "wins": 51,
         "losses": 21
       },
       "LINK": {
@@ -126,16 +135,16 @@
       }
     },
     "stats": {
-      "total": 496,
-      "wins": 331,
+      "total": 497,
+      "wins": 332,
       "losses": 165,
-      "wr": 66.7,
-      "pf": 1.28,
+      "wr": 66.8,
+      "pf": 1.29,
       "avg_win": 0.3479,
       "avg_loss": 0.544,
       "best": 0.36,
       "worst": -0.79,
-      "total_pnl": 25.38
+      "total_pnl": 25.73
     },
     "equity_curve": [
       500.0,
@@ -634,7 +643,8 @@
       524.33,
       524.68,
       525.03,
-      525.38
+      525.38,
+      525.73
     ]
   },
   "ict_2025": {
@@ -646,7 +656,7 @@
     "pnl_pct": 16.36,
     "trades_count": 12,
     "loss_streak": 0,
-    "last_update": "2026-03-19T21:44:23.676689+00:00",
+    "last_update": "2026-03-19T21:59:59.277115+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -927,9 +937,9 @@
     "bankroll_initial": 10000.0
   },
   "portfolio": {
-    "total_equity": 1101.55,
+    "total_equity": 1101.88,
     "total_capital": 1000.0,
-    "total_pnl": 101.55,
-    "total_pnl_pct": 10.15
+    "total_pnl": 101.88,
+    "total_pnl_pct": 10.19
   }
 }
