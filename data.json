@@ -1,17 +1,36 @@
 {
-  "timestamp": "2026-03-19 14:00:03",
-  "timestamp_utc": "2026-03-19T07:00:03.117349",
+  "timestamp": "2026-03-19 14:15:03",
+  "timestamp_utc": "2026-03-19T07:15:03.079602",
   "grid_v9": {
-    "equity": 507.85,
+    "equity": 507.83,
     "peak": 522.34,
-    "drawdown_pct": 2.77,
+    "drawdown_pct": 2.78,
     "capital": 500.0,
-    "pnl": 7.85,
+    "pnl": 7.83,
     "pnl_pct": 1.57,
     "trades_count": 448,
     "total_funding": 0.3287,
-    "last_update": "2026-03-19T13:55:44.526246+00:00",
-    "positions": [],
+    "last_update": "2026-03-19T14:11:24.597659+00:00",
+    "positions": [
+      {
+        "pair": "DOGE",
+        "side": "long",
+        "entry": 0.0943411023907735,
+        "size": 50.784577786673054,
+        "tp": 0.09500149010750891,
+        "sl": 0.09344385836770727,
+        "kz": "LONDON"
+      },
+      {
+        "pair": "LINK",
+        "side": "long",
+        "entry": 9.116919567113689,
+        "size": 50.78356209511732,
+        "tp": 9.180738004083484,
+        "sl": 9.036718484897913,
+        "kz": "LONDON"
+      }
+    ],
     "pair_stats": {
       "BTC": {
         "pnl": -0.1295,
@@ -29,8 +48,8 @@
       },
       "DOGE": {
         "pnl": -1.4253,
-        "fees": 1.2994,
-        "trades": 49,
+        "fees": 1.3096,
+        "trades": 50,
         "wins": 30,
         "losses": 19
       },
@@ -64,8 +83,8 @@
       },
       "LINK": {
         "pnl": 4.0894,
-        "fees": 1.4657,
-        "trades": 58,
+        "fees": 1.4759,
+        "trades": 59,
         "wins": 40,
         "losses": 18
       }
@@ -543,7 +562,7 @@
     "pnl_pct": 16.36,
     "trades_count": 12,
     "loss_streak": 0,
-    "last_update": "2026-03-19T13:58:20.829182+00:00",
+    "last_update": "2026-03-19T14:13:49.771451+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -824,9 +843,9 @@
     "bankroll_initial": 10000.0
   },
   "portfolio": {
-    "total_equity": 1089.65,
+    "total_equity": 1089.63,
     "total_capital": 1000.0,
-    "total_pnl": 89.65,
-    "total_pnl_pct": 8.97
+    "total_pnl": 89.63,
+    "total_pnl_pct": 8.96
   }
 }
