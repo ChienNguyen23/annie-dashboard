@@ -1,27 +1,17 @@
 {
-  "timestamp": "2026-03-19 19:45:03",
-  "timestamp_utc": "2026-03-19T12:45:03.338330",
+  "timestamp": "2026-03-19 20:00:02",
+  "timestamp_utc": "2026-03-19T13:00:02.474780",
   "grid_v9": {
-    "equity": 513.15,
+    "equity": 513.5,
     "peak": 522.34,
-    "drawdown_pct": 1.76,
+    "drawdown_pct": 1.69,
     "capital": 500.0,
-    "pnl": 13.15,
-    "pnl_pct": 2.63,
-    "trades_count": 474,
+    "pnl": 13.5,
+    "pnl_pct": 2.7,
+    "trades_count": 475,
     "total_funding": 0.3592,
-    "last_update": "2026-03-19T19:44:59.596669+00:00",
-    "positions": [
-      {
-        "pair": "AVAX",
-        "side": "short",
-        "entry": 9.542942575332992,
-        "size": 51.157511405413004,
-        "tp": 9.47614197730566,
-        "sl": 9.627799013665474,
-        "kz": "LONDON"
-      }
-    ],
+    "last_update": "2026-03-19T19:55:23.944471+00:00",
+    "positions": [],
     "pair_stats": {
       "BTC": {
         "pnl": -0.1295,
@@ -59,10 +49,10 @@
         "losses": 20
       },
       "AVAX": {
-        "pnl": 0.3733,
-        "fees": 1.6271,
+        "pnl": 0.7212,
+        "fees": 1.6374,
         "trades": 62,
-        "wins": 37,
+        "wins": 38,
         "losses": 24
       },
       "SOL": {
@@ -81,16 +71,16 @@
       }
     },
     "stats": {
-      "total": 474,
-      "wins": 310,
+      "total": 475,
+      "wins": 311,
       "losses": 164,
-      "wr": 65.4,
+      "wr": 65.5,
       "pf": 1.21,
       "avg_win": 0.3477,
       "avg_loss": 0.5445,
       "best": 0.36,
       "worst": -0.79,
-      "total_pnl": 18.5
+      "total_pnl": 18.85
     },
     "equity_curve": [
       500.0,
@@ -567,7 +557,8 @@
       519.15,
       519.5,
       518.97,
-      518.5
+      518.5,
+      518.85
     ]
   },
   "ict_2025": {
@@ -579,7 +570,7 @@
     "pnl_pct": 16.36,
     "trades_count": 12,
     "loss_streak": 0,
-    "last_update": "2026-03-19T19:39:53.497976+00:00",
+    "last_update": "2026-03-19T19:55:27.372861+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -860,9 +851,9 @@
     "bankroll_initial": 10000.0
   },
   "portfolio": {
-    "total_equity": 1094.95,
+    "total_equity": 1095.3,
     "total_capital": 1000.0,
-    "total_pnl": 94.95,
-    "total_pnl_pct": 9.49
+    "total_pnl": 95.3,
+    "total_pnl_pct": 9.53
   }
 }
