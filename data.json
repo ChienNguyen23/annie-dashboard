@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-03-19 10:45:02",
-  "timestamp_utc": "2026-03-19T03:45:02.203351",
+  "timestamp": "2026-03-19 11:00:02",
+  "timestamp_utc": "2026-03-19T04:00:02.971498",
   "grid_v9": {
     "equity": 507.85,
     "peak": 522.34,
@@ -10,7 +10,7 @@
     "pnl_pct": 1.57,
     "trades_count": 448,
     "total_funding": 0.3287,
-    "last_update": "2026-03-19T10:44:11.922052+00:00",
+    "last_update": "2026-03-19T10:59:43.478595+00:00",
     "positions": [],
     "pair_stats": {
       "BTC": {
@@ -543,7 +543,7 @@
     "pnl_pct": 16.36,
     "trades_count": 12,
     "loss_streak": 0,
-    "last_update": "2026-03-19T10:42:32.730825+00:00",
+    "last_update": "2026-03-19T10:57:59.613015+00:00",
     "positions": [],
     "recent_trades": [
       {
