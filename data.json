@@ -1,86 +1,177 @@
 {
-  "timestamp": "2026-03-22 07:00:02",
-  "timestamp_utc": "2026-03-22T00:00:02.029855",
+  "timestamp": "2026-03-22 07:15:01",
+  "timestamp_utc": "2026-03-22T00:15:02.002352",
   "grid_v9": {
-    "equity": 534.27,
+    "equity": 534.43,
     "peak": 535.71,
-    "drawdown_pct": 0.27,
+    "drawdown_pct": 0.24,
     "capital": 500.0,
-    "pnl": 34.27,
-    "pnl_pct": 6.85,
-    "trades_count": 600,
+    "pnl": 34.43,
+    "pnl_pct": 6.89,
+    "trades_count": 609,
     "total_funding": 0.4966,
-    "last_update": "2026-03-22T06:57:46.323191+00:00",
-    "positions": [],
+    "last_update": "2026-03-22T07:13:15.648678+00:00",
+    "positions": [
+      {
+        "pair": "BTC",
+        "side": "short",
+        "entry": 68614.65577914496,
+        "size": 53.425804347061046,
+        "tp": 68134.35318869095,
+        "sl": 69042.60050307616,
+        "kz": "ASIA"
+      },
+      {
+        "pair": "BTC",
+        "side": "short",
+        "entry": 68785.83366871745,
+        "size": 53.4247358309741,
+        "tp": 68304.33283303642,
+        "sl": 69213.77839264864,
+        "kz": "ASIA"
+      },
+      {
+        "pair": "BTC",
+        "side": "short",
+        "entry": 68885.384,
+        "size": 53.340877090132224,
+        "tp": 68403.186312,
+        "sl": 69314.844,
+        "kz": "ASIA"
+      },
+      {
+        "pair": "DOGE",
+        "side": "short",
+        "entry": 0.09099170295363683,
+        "size": 53.38229174832712,
+        "tp": 0.09035476103296138,
+        "sl": 0.09174596033772889,
+        "kz": "ASIA"
+      },
+      {
+        "pair": "XRP",
+        "side": "long",
+        "entry": 1.4012684325831815,
+        "size": 53.38122410249216,
+        "tp": 1.4110773116112636,
+        "sl": 1.3914395140411349,
+        "kz": "ASIA"
+      },
+      {
+        "pair": "XRP",
+        "side": "short",
+        "entry": 1.4091315674168186,
+        "size": 53.376108778995466,
+        "tp": 1.3992676464449008,
+        "sl": 1.4189604859588651,
+        "kz": "ASIA"
+      },
+      {
+        "pair": "ADA",
+        "side": "short",
+        "entry": 0.25581587664674443,
+        "size": 53.44763609173412,
+        "tp": 0.2540251655102172,
+        "sl": 0.25785556826360556,
+        "kz": "ASIA"
+      },
+      {
+        "pair": "AVAX",
+        "side": "short",
+        "entry": 9.186824217812683,
+        "size": 53.44656713901229,
+        "tp": 9.122516448287994,
+        "sl": 9.271384762344388,
+        "kz": "ASIA"
+      },
+      {
+        "pair": "SOL",
+        "side": "long",
+        "entry": 86.70821475592327,
+        "size": 53.4454982076695,
+        "tp": 87.31517225921472,
+        "sl": 85.97875164573144,
+        "kz": "ASIA"
+      },
+      {
+        "pair": "LINK",
+        "side": "short",
+        "entry": 8.815406033142361,
+        "size": 53.444429297705355,
+        "tp": 8.753698190910365,
+        "sl": 8.891421115998263,
+        "kz": "ASIA"
+      }
+    ],
     "pair_stats": {
       "BTC": {
-        "pnl": 1.1192,
-        "fees": 1.7537,
-        "trades": 64,
+        "pnl": 0.7584,
+        "fees": 1.8231,
+        "trades": 68,
         "wins": 37,
-        "losses": 27
+        "losses": 28
       },
       "ETH": {
-        "pnl": 10.3488,
-        "fees": 1.7834,
-        "trades": 73,
+        "pnl": 9.262,
+        "fees": 1.8955,
+        "trades": 76,
         "wins": 57,
-        "losses": 16
+        "losses": 19
       },
       "DOGE": {
-        "pnl": 1.9098,
-        "fees": 1.8368,
-        "trades": 71,
-        "wins": 47,
+        "pnl": 2.6363,
+        "fees": 1.8902,
+        "trades": 74,
+        "wins": 49,
         "losses": 24
       },
       "XRP": {
-        "pnl": 3.8967,
-        "fees": 1.7919,
-        "trades": 68,
-        "wins": 44,
+        "pnl": 4.2597,
+        "fees": 1.8346,
+        "trades": 71,
+        "wins": 45,
         "losses": 24
       },
       "ADA": {
-        "pnl": 9.9659,
-        "fees": 2.2358,
-        "trades": 91,
-        "wins": 68,
+        "pnl": 10.6918,
+        "fees": 2.2892,
+        "trades": 94,
+        "wins": 70,
         "losses": 23
       },
       "AVAX": {
         "pnl": 2.5574,
-        "fees": 2.1339,
-        "trades": 81,
+        "fees": 2.1445,
+        "trades": 82,
         "wins": 51,
         "losses": 30
       },
       "SOL": {
         "pnl": 5.6381,
-        "fees": 1.9613,
-        "trades": 78,
+        "fees": 1.972,
+        "trades": 79,
         "wins": 55,
         "losses": 23
       },
       "LINK": {
         "pnl": 5.5147,
-        "fees": 1.8788,
-        "trades": 74,
+        "fees": 1.8895,
+        "trades": 75,
         "wins": 51,
         "losses": 23
       }
     },
     "stats": {
-      "total": 600,
-      "wins": 410,
-      "losses": 190,
-      "wr": 68.3,
+      "total": 609,
+      "wins": 415,
+      "losses": 194,
+      "wr": 68.1,
       "pf": 1.4,
-      "avg_win": 0.3482,
-      "avg_loss": 0.5355,
+      "avg_win": 0.3484,
+      "avg_loss": 0.5319,
       "best": 0.36,
       "worst": -0.79,
-      "total_pnl": 41.03
+      "total_pnl": 41.39
     },
     "equity_curve": [
       500.0,
@@ -683,7 +774,16 @@
       542.11,
       541.75,
       541.39,
-      541.03
+      541.03,
+      540.67,
+      540.31,
+      539.95,
+      540.31,
+      540.67,
+      540.31,
+      540.67,
+      541.03,
+      541.39
     ]
   },
   "ict_2025": {
@@ -695,7 +795,7 @@
     "pnl_pct": 16.36,
     "trades_count": 12,
     "loss_streak": 0,
-    "last_update": "2026-03-22T06:55:57.956319+00:00",
+    "last_update": "2026-03-22T07:11:22.876767+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -976,9 +1076,9 @@
     "bankroll_initial": 10000.0
   },
   "portfolio": {
-    "total_equity": 1116.07,
+    "total_equity": 1116.23,
     "total_capital": 1000.0,
-    "total_pnl": 116.07,
-    "total_pnl_pct": 11.61
+    "total_pnl": 116.23,
+    "total_pnl_pct": 11.62
   }
 }
