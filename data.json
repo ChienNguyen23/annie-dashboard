@@ -1,26 +1,17 @@
 {
-  "timestamp": "2026-03-26 03:15:04",
-  "timestamp_utc": "2026-03-25T20:15:04.137705",
+  "timestamp": "2026-03-26 03:30:04",
+  "timestamp_utc": "2026-03-25T20:30:04.315681",
   "grid_v9": {
-    "equity": 527.17,
+    "equity": 528.24,
     "peak": 535.71,
-    "drawdown_pct": 1.59,
+    "drawdown_pct": 1.39,
     "capital": 500.0,
-    "pnl": 27.17,
-    "pnl_pct": 5.43,
-    "trades_count": 817,
+    "pnl": 28.24,
+    "pnl_pct": 5.65,
+    "trades_count": 820,
     "total_funding": 0.675,
-    "last_update": "2026-03-26T03:11:17.850118+00:00",
+    "last_update": "2026-03-26T03:27:31.641378+00:00",
     "positions": [
-      {
-        "pair": "BTC",
-        "side": "short",
-        "entry": 71106.60360029482,
-        "size": 52.51796018867832,
-        "tp": 70608.85737509276,
-        "sl": 71611.11260103188,
-        "kz": "NY_AM"
-      },
       {
         "pair": "ETH",
         "side": "short",
@@ -40,15 +31,6 @@
         "kz": "NY_AM"
       },
       {
-        "pair": "AVAX",
-        "side": "short",
-        "entry": 9.699858451048703,
-        "size": 52.6829276864393,
-        "tp": 9.631959441891363,
-        "sl": 9.77950457867046,
-        "kz": "NY_PM"
-      },
-      {
         "pair": "LINK",
         "side": "long",
         "entry": 9.337161902176774,
@@ -56,23 +38,14 @@
         "tp": 9.40252203549201,
         "sl": 9.25006665761871,
         "kz": "NY_PM"
-      },
-      {
-        "pair": "LINK",
-        "side": "short",
-        "entry": 9.364752383537512,
-        "size": 52.68187402788556,
-        "tp": 9.29919911685275,
-        "sl": 9.45413334238129,
-        "kz": "NY_PM"
       }
     ],
     "pair_stats": {
       "BTC": {
-        "pnl": 0.1613,
-        "fees": 2.6677,
+        "pnl": 0.5184,
+        "fees": 2.6782,
         "trades": 96,
-        "wins": 52,
+        "wins": 53,
         "losses": 43
       },
       "ETH": {
@@ -104,10 +77,10 @@
         "losses": 35
       },
       "AVAX": {
-        "pnl": 1.4655,
-        "fees": 2.8222,
+        "pnl": 1.8238,
+        "fees": 2.8327,
         "trades": 106,
-        "wins": 64,
+        "wins": 65,
         "losses": 41
       },
       "SOL": {
@@ -118,24 +91,24 @@
         "losses": 36
       },
       "LINK": {
-        "pnl": 5.0302,
-        "fees": 2.6744,
+        "pnl": 5.3884,
+        "fees": 2.685,
         "trades": 104,
-        "wins": 67,
+        "wins": 68,
         "losses": 35
       }
     },
     "stats": {
-      "total": 817,
-      "wins": 529,
+      "total": 820,
+      "wins": 532,
       "losses": 288,
-      "wr": 64.7,
+      "wr": 64.9,
       "pf": 1.25,
-      "avg_win": 0.35,
+      "avg_win": 0.3501,
       "avg_loss": 0.516,
       "best": 0.36,
       "worst": -0.79,
-      "total_pnl": 36.54
+      "total_pnl": 37.62
     },
     "equity_curve": [
       500.0,
@@ -955,7 +928,10 @@
       535.46,
       535.82,
       536.18,
-      536.54
+      536.54,
+      536.9,
+      537.26,
+      537.62
     ]
   },
   "ict_2025": {
@@ -967,7 +943,7 @@
     "pnl_pct": 16.79,
     "trades_count": 13,
     "loss_streak": 0,
-    "last_update": "2026-03-26T03:14:27.856739+00:00",
+    "last_update": "2026-03-26T03:25:17.741065+00:00",
     "positions": [
       {
         "pair": "XRP",
@@ -984,6 +960,54 @@
           "FVG",
           "UNICORN",
           "VP_POC_SUPPORT",
+          "VP_LVN_TARGET"
+        ]
+      },
+      {
+        "pair": "BTC",
+        "direction": "long",
+        "entry": 70767.5,
+        "sl": 70508.7,
+        "tp": 71414.5,
+        "size": 3193.451798686208,
+        "score": 9,
+        "rr": 2.499999999999972,
+        "kz": "NY_PM",
+        "quality": [
+          "REJECT",
+          "VP_LVN_TARGET"
+        ]
+      },
+      {
+        "pair": "ADA",
+        "direction": "long",
+        "entry": 0.2699,
+        "sl": 0.26855049999999997,
+        "tp": 0.27327375,
+        "size": 1751.7899999999947,
+        "score": 8,
+        "rr": 2.5,
+        "kz": "NY_PM",
+        "quality": [
+          "REJECT",
+          "CBDR",
+          "VP_LVN_TARGET"
+        ]
+      },
+      {
+        "pair": "SOL",
+        "direction": "long",
+        "entry": 91.31,
+        "sl": 90.85345000000001,
+        "tp": 92.45137499999998,
+        "size": 1751.7900000000268,
+        "score": 8,
+        "rr": 2.5,
+        "kz": "NY_PM",
+        "quality": [
+          "STRONG_TREND",
+          "VP_BELOW_VA_LONG",
+          "VP_DEEP_DISCOUNT",
           "VP_LVN_TARGET"
         ]
       }
@@ -1300,7 +1324,7 @@
     "profit_target": 3000.0,
     "drawdown_pct": 1.17,
     "trades_count": 2,
-    "last_update": "2026-03-26T03:14:58.909347+00:00",
+    "last_update": "2026-03-26T03:25:47.192129+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -1352,9 +1376,9 @@
     }
   },
   "portfolio": {
-    "total_equity": 50524.03,
+    "total_equity": 50525.1,
     "total_capital": 51000.0,
-    "total_pnl": -475.97,
+    "total_pnl": -474.9,
     "total_pnl_pct": -0.93
   }
 }
