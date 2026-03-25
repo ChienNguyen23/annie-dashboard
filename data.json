@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-03-25 14:30:03",
-  "timestamp_utc": "2026-03-25T07:30:03.045212",
+  "timestamp": "2026-03-25 14:45:03",
+  "timestamp_utc": "2026-03-25T07:45:03.074795",
   "grid_v9": {
-    "equity": 525.62,
+    "equity": 525.61,
     "peak": 535.71,
-    "drawdown_pct": 1.88,
+    "drawdown_pct": 1.89,
     "capital": 500.0,
-    "pnl": 25.62,
+    "pnl": 25.61,
     "pnl_pct": 5.12,
     "trades_count": 784,
     "total_funding": 0.6067,
-    "last_update": "2026-03-25T14:29:28.673237+00:00",
+    "last_update": "2026-03-25T14:40:10.632170+00:00",
     "positions": [
       {
         "pair": "DOGE",
@@ -37,6 +37,15 @@
         "size": 52.52841054597756,
         "tp": 0.26898866496701396,
         "sl": 0.27336593270471443,
+        "kz": "LONDON"
+      },
+      {
+        "pair": "AVAX",
+        "side": "short",
+        "entry": 9.684303174614124,
+        "size": 52.56203017855398,
+        "tp": 9.616513052391825,
+        "sl": 9.768432142881778,
         "kz": "LONDON"
       },
       {
@@ -96,8 +105,8 @@
       },
       "AVAX": {
         "pnl": 1.5923,
-        "fees": 2.7539,
-        "trades": 103,
+        "fees": 2.7644,
+        "trades": 104,
         "wins": 63,
         "losses": 40
       },
@@ -925,7 +934,7 @@
     "pnl_pct": 16.36,
     "trades_count": 12,
     "loss_streak": 0,
-    "last_update": "2026-03-25T14:29:24.254624+00:00",
+    "last_update": "2026-03-25T14:39:58.424722+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -1219,7 +1228,7 @@
     "profit_target": 3000.0,
     "drawdown_pct": 0.0,
     "trades_count": 0,
-    "last_update": "2026-03-25T14:28:14.372152+00:00",
+    "last_update": "2026-03-25T14:44:12.515219+00:00",
     "positions": [],
     "recent_trades": [],
     "stats": {
@@ -1240,9 +1249,9 @@
     "daily_pnl": {}
   },
   "portfolio": {
-    "total_equity": 51107.42,
+    "total_equity": 51107.41,
     "total_capital": 51000.0,
-    "total_pnl": 107.42,
+    "total_pnl": 107.41,
     "total_pnl_pct": 0.21
   }
 }
