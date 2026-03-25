@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-03-26 03:30:04",
-  "timestamp_utc": "2026-03-25T20:30:04.315681",
+  "timestamp": "2026-03-26 03:45:03",
+  "timestamp_utc": "2026-03-25T20:45:03.481082",
   "grid_v9": {
-    "equity": 528.24,
+    "equity": 528.23,
     "peak": 535.71,
-    "drawdown_pct": 1.39,
+    "drawdown_pct": 1.4,
     "capital": 500.0,
-    "pnl": 28.24,
+    "pnl": 28.23,
     "pnl_pct": 5.65,
     "trades_count": 820,
     "total_funding": 0.675,
-    "last_update": "2026-03-26T03:27:31.641378+00:00",
+    "last_update": "2026-03-26T03:43:48.520042+00:00",
     "positions": [
       {
         "pair": "ETH",
@@ -29,6 +29,15 @@
         "tp": 0.0970660357623284,
         "sl": 0.0954507105901378,
         "kz": "NY_AM"
+      },
+      {
+        "pair": "ADA",
+        "side": "long",
+        "entry": 0.26850127223905396,
+        "size": 52.82400577582798,
+        "tp": 0.2703807811447273,
+        "sl": 0.2660044528366888,
+        "kz": "NY_PM"
       },
       {
         "pair": "LINK",
@@ -71,8 +80,8 @@
       },
       "ADA": {
         "pnl": 9.7639,
-        "fees": 3.0125,
-        "trades": 119,
+        "fees": 3.023,
+        "trades": 120,
         "wins": 84,
         "losses": 35
       },
@@ -935,15 +944,15 @@
     ]
   },
   "ict_2025": {
-    "equity": 583.93,
+    "equity": 572.2,
     "peak": 583.93,
-    "drawdown_pct": 0.0,
+    "drawdown_pct": 2.01,
     "capital": 500.0,
-    "pnl": 83.93,
-    "pnl_pct": 16.79,
-    "trades_count": 13,
-    "loss_streak": 0,
-    "last_update": "2026-03-26T03:25:17.741065+00:00",
+    "pnl": 72.2,
+    "pnl_pct": 14.44,
+    "trades_count": 14,
+    "loss_streak": 1,
+    "last_update": "2026-03-26T03:41:25.354825+00:00",
     "positions": [
       {
         "pair": "XRP",
@@ -979,22 +988,6 @@
         ]
       },
       {
-        "pair": "ADA",
-        "direction": "long",
-        "entry": 0.2699,
-        "sl": 0.26855049999999997,
-        "tp": 0.27327375,
-        "size": 1751.7899999999947,
-        "score": 8,
-        "rr": 2.5,
-        "kz": "NY_PM",
-        "quality": [
-          "REJECT",
-          "CBDR",
-          "VP_LVN_TARGET"
-        ]
-      },
-      {
         "pair": "SOL",
         "direction": "long",
         "entry": 91.31,
@@ -1013,6 +1006,23 @@
       }
     ],
     "recent_trades": [
+      {
+        "pair": "ADA",
+        "direction": "long",
+        "entry": 0.2699,
+        "exit": 0.26841622475,
+        "pnl": -11.73,
+        "score": 8,
+        "rr_actual": -1.1,
+        "kz": "NY_PM",
+        "entry_time": "2026-03-25 20:19",
+        "exit_time": "2026-03-26 03:36",
+        "quality": [
+          "REJECT",
+          "CBDR",
+          "VP_LVN_TARGET"
+        ]
+      },
       {
         "pair": "DOGE",
         "direction": "long",
@@ -1241,16 +1251,16 @@
       }
     ],
     "stats": {
-      "total": 13,
+      "total": 14,
       "wins": 9,
-      "losses": 4,
-      "wr": 69.2,
-      "pf": 2.87,
+      "losses": 5,
+      "wr": 64.3,
+      "pf": 2.27,
       "avg_win": 14.3156,
-      "avg_loss": 11.2275,
+      "avg_loss": 11.328,
       "best": 33.48,
       "worst": -14.88,
-      "total_pnl": 83.93
+      "total_pnl": 72.2
     },
     "equity_curve": [
       500.0,
@@ -1266,13 +1276,15 @@
       568.87,
       564.92,
       581.8,
-      583.93
+      583.93,
+      572.2
     ],
     "daily_loss": {
       "2026-03-11": -14.63,
       "2026-03-12": -11.45,
       "2026-03-13": -14.88,
-      "2026-03-15": -3.95
+      "2026-03-15": -3.95,
+      "2026-03-26": -11.73
     }
   },
   "prediction": {
@@ -1324,7 +1336,7 @@
     "profit_target": 3000.0,
     "drawdown_pct": 1.17,
     "trades_count": 2,
-    "last_update": "2026-03-26T03:25:47.192129+00:00",
+    "last_update": "2026-03-26T03:41:59.086079+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -1376,9 +1388,9 @@
     }
   },
   "portfolio": {
-    "total_equity": 50525.1,
+    "total_equity": 50513.36,
     "total_capital": 51000.0,
-    "total_pnl": -474.9,
-    "total_pnl_pct": -0.93
+    "total_pnl": -486.64,
+    "total_pnl_pct": -0.95
   }
 }
