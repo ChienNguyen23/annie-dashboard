@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-03-26 02:30:04",
-  "timestamp_utc": "2026-03-25T19:30:04.274107",
+  "timestamp": "2026-03-26 02:45:04",
+  "timestamp_utc": "2026-03-25T19:45:04.227019",
   "grid_v9": {
-    "equity": 526.83,
+    "equity": 526.81,
     "peak": 535.71,
     "drawdown_pct": 1.66,
     "capital": 500.0,
-    "pnl": 26.83,
-    "pnl_pct": 5.37,
+    "pnl": 26.81,
+    "pnl_pct": 5.36,
     "trades_count": 816,
     "total_funding": 0.675,
-    "last_update": "2026-03-26T02:28:00.415019+00:00",
+    "last_update": "2026-03-26T02:44:15.468586+00:00",
     "positions": [
       {
         "pair": "BTC",
@@ -40,6 +40,15 @@
         "kz": "NY_AM"
       },
       {
+        "pair": "AVAX",
+        "side": "short",
+        "entry": 9.699858451048703,
+        "size": 52.6829276864393,
+        "tp": 9.631959441891363,
+        "sl": 9.77950457867046,
+        "kz": "NY_PM"
+      },
+      {
         "pair": "SOL",
         "side": "short",
         "entry": 91.93116546664324,
@@ -55,6 +64,15 @@
         "size": 52.68608878854372,
         "tp": 9.40252203549201,
         "sl": 9.25006665761871,
+        "kz": "NY_PM"
+      },
+      {
+        "pair": "LINK",
+        "side": "short",
+        "entry": 9.364752383537512,
+        "size": 52.68187402788556,
+        "tp": 9.29919911685275,
+        "sl": 9.45413334238129,
         "kz": "NY_PM"
       }
     ],
@@ -96,8 +114,8 @@
       },
       "AVAX": {
         "pnl": 1.4655,
-        "fees": 2.8116,
-        "trades": 105,
+        "fees": 2.8222,
+        "trades": 106,
         "wins": 64,
         "losses": 41
       },
@@ -110,8 +128,8 @@
       },
       "LINK": {
         "pnl": 5.0302,
-        "fees": 2.6639,
-        "trades": 103,
+        "fees": 2.6744,
+        "trades": 104,
         "wins": 67,
         "losses": 35
       }
@@ -957,7 +975,7 @@
     "pnl_pct": 16.79,
     "trades_count": 13,
     "loss_streak": 0,
-    "last_update": "2026-03-26T02:25:58.228811+00:00",
+    "last_update": "2026-03-26T02:42:08.923262+00:00",
     "positions": [
       {
         "pair": "XRP",
@@ -1290,7 +1308,7 @@
     "profit_target": 3000.0,
     "drawdown_pct": 1.17,
     "trades_count": 2,
-    "last_update": "2026-03-26T02:26:22.755135+00:00",
+    "last_update": "2026-03-26T02:42:34.305204+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -1342,9 +1360,9 @@
     }
   },
   "portfolio": {
-    "total_equity": 50523.69,
+    "total_equity": 50523.67,
     "total_capital": 51000.0,
-    "total_pnl": -476.31,
+    "total_pnl": -476.33,
     "total_pnl_pct": -0.93
   }
 }
