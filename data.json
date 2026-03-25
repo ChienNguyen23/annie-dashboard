@@ -1,17 +1,35 @@
 {
-  "timestamp": "2026-03-25 15:15:04",
-  "timestamp_utc": "2026-03-25T08:15:04.050708",
+  "timestamp": "2026-03-25 15:30:03",
+  "timestamp_utc": "2026-03-25T08:30:03.148472",
   "grid_v9": {
-    "equity": 525.55,
+    "equity": 525.53,
     "peak": 535.71,
     "drawdown_pct": 1.9,
     "capital": 500.0,
-    "pnl": 25.55,
+    "pnl": 25.53,
     "pnl_pct": 5.11,
     "trades_count": 784,
     "total_funding": 0.6435,
-    "last_update": "2026-03-25T15:12:14.866551+00:00",
+    "last_update": "2026-03-25T15:28:18.082517+00:00",
     "positions": [
+      {
+        "pair": "BTC",
+        "side": "short",
+        "entry": 71066.51973550944,
+        "size": 52.555198522508576,
+        "tp": 70569.05409736087,
+        "sl": 71540.81907428303,
+        "kz": "LONDON"
+      },
+      {
+        "pair": "ETH",
+        "side": "short",
+        "entry": 2172.3753829568113,
+        "size": 52.55414741853813,
+        "tp": 2157.1687552761136,
+        "sl": 2190.0638403488397,
+        "kz": "LONDON"
+      },
       {
         "pair": "DOGE",
         "side": "long",
@@ -88,15 +106,15 @@
     "pair_stats": {
       "BTC": {
         "pnl": -0.1673,
-        "fees": 2.5208,
-        "trades": 90,
+        "fees": 2.5313,
+        "trades": 91,
         "wins": 49,
         "losses": 41
       },
       "ETH": {
         "pnl": 9.4915,
-        "fees": 2.3599,
-        "trades": 93,
+        "fees": 2.3704,
+        "trades": 94,
         "wins": 67,
         "losses": 26
       },
@@ -952,7 +970,7 @@
     "pnl_pct": 16.36,
     "trades_count": 12,
     "loss_streak": 0,
-    "last_update": "2026-03-25T15:11:55.128428+00:00",
+    "last_update": "2026-03-25T15:27:55.042756+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -1246,7 +1264,7 @@
     "profit_target": 3000.0,
     "drawdown_pct": 0.0,
     "trades_count": 0,
-    "last_update": "2026-03-25T15:10:52.748299+00:00",
+    "last_update": "2026-03-25T15:26:53.829424+00:00",
     "positions": [],
     "recent_trades": [],
     "stats": {
@@ -1267,9 +1285,9 @@
     "daily_pnl": {}
   },
   "portfolio": {
-    "total_equity": 51107.35,
+    "total_equity": 51107.33,
     "total_capital": 51000.0,
-    "total_pnl": 107.35,
+    "total_pnl": 107.33,
     "total_pnl_pct": 0.21
   }
 }
