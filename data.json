@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-03-26 06:15:01",
-  "timestamp_utc": "2026-03-25T23:15:01.815017",
+  "timestamp": "2026-03-26 06:23:45",
+  "timestamp_utc": "2026-03-25T23:23:45.265084",
   "grid_v9": {
     "equity": 528.59,
     "peak": 535.71,
@@ -10,7 +10,7 @@
     "pnl_pct": 5.72,
     "trades_count": 821,
     "total_funding": 0.675,
-    "last_update": "2026-03-26T06:12:01.776800+00:00",
+    "last_update": "2026-03-26T06:22:04.671131+00:00",
     "positions": [
       {
         "pair": "ETH",
@@ -936,15 +936,15 @@
     ]
   },
   "ict_2025": {
-    "equity": 572.2,
-    "peak": 583.93,
-    "drawdown_pct": 2.01,
+    "equity": 586.25,
+    "peak": 586.25,
+    "drawdown_pct": 0.0,
     "capital": 500.0,
-    "pnl": 72.2,
-    "pnl_pct": 14.44,
-    "trades_count": 14,
-    "loss_streak": 1,
-    "last_update": "2026-03-26T06:10:18.898160+00:00",
+    "pnl": 86.25,
+    "pnl_pct": 17.25,
+    "trades_count": 15,
+    "loss_streak": 0,
+    "last_update": "2026-03-26T06:20:21.096732+00:00",
     "positions": [
       {
         "pair": "XRP",
@@ -961,21 +961,6 @@
           "FVG",
           "UNICORN",
           "VP_POC_SUPPORT",
-          "VP_LVN_TARGET"
-        ]
-      },
-      {
-        "pair": "BTC",
-        "direction": "long",
-        "entry": 70767.5,
-        "sl": 71325.26,
-        "tp": 71414.5,
-        "size": 1085.7736115533107,
-        "score": 9,
-        "rr": 2.499999999999972,
-        "kz": "NY_PM",
-        "quality": [
-          "REJECT",
           "VP_LVN_TARGET"
         ]
       },
@@ -1012,6 +997,22 @@
         "quality": [
           "REJECT",
           "CBDR",
+          "VP_LVN_TARGET"
+        ]
+      },
+      {
+        "pair": "BTC",
+        "direction": "long",
+        "entry": 70767.5,
+        "exit": 71289.59736999999,
+        "pnl": 14.05,
+        "score": 9,
+        "rr_actual": 0.7,
+        "kz": "NY_PM",
+        "entry_time": "2026-03-25 20:19",
+        "exit_time": "2026-03-26 06:15",
+        "quality": [
+          "REJECT",
           "VP_LVN_TARGET"
         ]
       },
@@ -1243,16 +1244,16 @@
       }
     ],
     "stats": {
-      "total": 14,
-      "wins": 9,
+      "total": 15,
+      "wins": 10,
       "losses": 5,
-      "wr": 64.3,
-      "pf": 2.27,
-      "avg_win": 14.3156,
+      "wr": 66.7,
+      "pf": 2.52,
+      "avg_win": 14.289,
       "avg_loss": 11.328,
       "best": 33.48,
       "worst": -14.88,
-      "total_pnl": 72.2
+      "total_pnl": 86.25
     },
     "equity_curve": [
       500.0,
@@ -1269,7 +1270,8 @@
       564.92,
       581.8,
       583.93,
-      572.2
+      572.2,
+      586.25
     ],
     "daily_loss": {
       "2026-03-11": -14.63,
@@ -1328,7 +1330,7 @@
     "profit_target": 3000.0,
     "drawdown_pct": 1.17,
     "trades_count": 2,
-    "last_update": "2026-03-26T06:10:30.484460+00:00",
+    "last_update": "2026-03-26T06:20:36.394336+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -1379,10 +1381,108 @@
       "2026-03-25": -587.0700000000058
     }
   },
+  "v16_50k": {
+    "equity": 50030.73,
+    "peak": 50030.73,
+    "drawdown_pct": 0.0,
+    "capital": 50000.0,
+    "pnl": 30.73,
+    "pnl_pct": 0.06,
+    "trades_count": 1,
+    "loss_streak": 0,
+    "last_update": "2026-03-26T06:21:07.318187+00:00",
+    "positions": [
+      {
+        "pair": "XRP",
+        "direction": "long",
+        "entry": 1.41232357,
+        "sl": 1.4126977235,
+        "tp": 1.4295487500000001,
+        "size": 10056.176730000001,
+        "score": 13,
+        "rr": 2.5,
+        "kz": "NY_PM",
+        "quality": [
+          "SB",
+          "OB",
+          "REJECT",
+          "VP_LVN_TARGET",
+          "REJECTION_CANDLE"
+        ]
+      }
+    ],
+    "recent_trades": [
+      {
+        "pair": "DOGE",
+        "direction": "long",
+        "entry": 0.095989,
+        "exit": 0.095992,
+        "pnl": 30.73,
+        "score": 9,
+        "rr_actual": 0.0,
+        "kz": "NY_AM",
+        "entry_time": "2026-03-25 15:29",
+        "exit_time": "2026-03-26 01:10",
+        "quality": [
+          "SB",
+          "STRONG_TREND",
+          "REJECT",
+          "CBDR",
+          "VP_LVN_TARGET"
+        ]
+      }
+    ],
+    "stats": {
+      "total": 1,
+      "wins": 1,
+      "losses": 0,
+      "wr": 100.0,
+      "pf": 999,
+      "avg_win": 30.73,
+      "avg_loss": 0,
+      "best": 30.73,
+      "worst": 30.73,
+      "total_pnl": 30.73
+    },
+    "equity_curve": [
+      50000.0,
+      50030.73
+    ],
+    "ws_monitor": true,
+    "max_dd_pct": 0
+  },
+  "orderflow_v4": {
+    "equity": 500.0,
+    "peak": 500.0,
+    "drawdown_pct": 0.0,
+    "capital": 500.0,
+    "pnl": 0.0,
+    "pnl_pct": 0.0,
+    "trades_count": 0,
+    "loss_streak": 0,
+    "last_update": "2026-03-26T06:23:05.469611+00:00",
+    "positions": [],
+    "recent_trades": [],
+    "stats": {
+      "total": 0,
+      "wins": 0,
+      "losses": 0,
+      "wr": 0,
+      "pf": 0,
+      "avg_win": 0,
+      "avg_loss": 0,
+      "best": 0,
+      "worst": 0,
+      "total_pnl": 0
+    },
+    "equity_curve": [
+      500.0
+    ]
+  },
   "portfolio": {
-    "total_equity": 50513.72,
-    "total_capital": 51000.0,
-    "total_pnl": -486.28,
-    "total_pnl_pct": -0.95
+    "total_equity": 101058.5,
+    "total_capital": 101500.0,
+    "total_pnl": -441.5,
+    "total_pnl_pct": -0.43
   }
 }
