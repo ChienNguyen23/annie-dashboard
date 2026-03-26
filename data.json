@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-03-26 22:15:02",
-  "timestamp_utc": "2026-03-26T15:15:02.979508",
+  "timestamp": "2026-03-26 22:30:01",
+  "timestamp_utc": "2026-03-26T15:30:01.882092",
   "grid_v9": {
     "equity": 514.38,
     "peak": 535.71,
@@ -10,7 +10,7 @@
     "pnl_pct": 2.88,
     "trades_count": 861,
     "total_funding": 0.7223,
-    "last_update": "2026-03-26T22:14:59.698857+00:00",
+    "last_update": "2026-03-26T22:25:19.556327+00:00",
     "positions": [],
     "pair_stats": {
       "BTC": {
@@ -956,7 +956,7 @@
     "pnl_pct": 13.36,
     "trades_count": 17,
     "loss_streak": 0,
-    "last_update": "2026-03-26T22:11:17.788999+00:00",
+    "last_update": "2026-03-26T22:26:34.530103+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -1345,7 +1345,7 @@
     "profit_target": 3000.0,
     "drawdown_pct": 1.41,
     "trades_count": 4,
-    "last_update": "2026-03-26T22:13:22.497293+00:00",
+    "last_update": "2026-03-26T22:28:47.797788+00:00",
     "positions": [
       {
         "instrument": "M2K",
@@ -1446,7 +1446,7 @@
     "pnl_pct": 0.06,
     "trades_count": 2,
     "loss_streak": 0,
-    "last_update": "2026-03-26T22:12:49.376275+00:00",
+    "last_update": "2026-03-26T22:28:11.342152+00:00",
     "positions": [],
     "recent_trades": [
       {
