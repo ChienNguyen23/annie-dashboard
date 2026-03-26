@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-03-26 08:45:02",
-  "timestamp_utc": "2026-03-26T01:45:02.386645",
+  "timestamp": "2026-03-26 09:00:01",
+  "timestamp_utc": "2026-03-26T02:00:01.983653",
   "grid_v9": {
     "equity": 528.33,
     "peak": 535.71,
@@ -10,7 +10,7 @@
     "pnl_pct": 5.67,
     "trades_count": 823,
     "total_funding": 0.6908,
-    "last_update": "2026-03-26T08:43:33.560596+00:00",
+    "last_update": "2026-03-26T08:58:44.815389+00:00",
     "positions": [
       {
         "pair": "BTC",
@@ -982,7 +982,7 @@
     "pnl_pct": 17.25,
     "trades_count": 15,
     "loss_streak": 0,
-    "last_update": "2026-03-26T08:41:33.848752+00:00",
+    "last_update": "2026-03-26T08:56:41.121264+00:00",
     "positions": [
       {
         "pair": "XRP",
@@ -1368,7 +1368,7 @@
     "profit_target": 3000.0,
     "drawdown_pct": 1.17,
     "trades_count": 2,
-    "last_update": "2026-03-26T08:42:01.499568+00:00",
+    "last_update": "2026-03-26T08:57:10.733696+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -1428,7 +1428,7 @@
     "pnl_pct": 0.06,
     "trades_count": 2,
     "loss_streak": 0,
-    "last_update": "2026-03-26T08:41:48.033874+00:00",
+    "last_update": "2026-03-26T08:56:54.639594+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -1499,7 +1499,7 @@
     "pnl_pct": 0.0,
     "trades_count": 0,
     "loss_streak": 0,
-    "last_update": "2026-03-26T08:44:27.676297+00:00",
+    "last_update": "2026-03-26T08:59:29.781060+00:00",
     "positions": [],
     "recent_trades": [],
     "stats": {
