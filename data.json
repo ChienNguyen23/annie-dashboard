@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-03-30 22:00:04",
-  "timestamp_utc": "2026-03-30T15:00:04.469592",
+  "timestamp": "2026-03-30 22:15:04",
+  "timestamp_utc": "2026-03-30T15:15:04.824577",
   "grid_v9": {
     "equity": 517.15,
     "peak": 535.71,
@@ -10,7 +10,7 @@
     "pnl_pct": 3.43,
     "trades_count": 949,
     "total_funding": 0.7686,
-    "last_update": "2026-03-30T21:59:42.867190+00:00",
+    "last_update": "2026-03-30T22:10:31.662113+00:00",
     "positions": [
       {
         "pair": "BTC",
@@ -1117,8 +1117,30 @@
     "pnl_pct": 13.36,
     "trades_count": 17,
     "loss_streak": 0,
-    "last_update": "2026-03-30T21:58:17.771183+00:00",
-    "positions": [],
+    "last_update": "2026-03-30T22:14:29.967735+00:00",
+    "positions": [
+      {
+        "pair": "DOGE",
+        "direction": "long",
+        "entry": 0.09267500000000001,
+        "sl": 0.09206579016381558,
+        "tp": 0.09419802459046107,
+        "size": 2586.7042953044865,
+        "score": 15,
+        "rr": 2.5,
+        "kz": "NY_AM",
+        "quality": [
+          "SB",
+          "MACRO",
+          "FVG",
+          "UNICORN",
+          "REJECT",
+          "VP_FVG_POC",
+          "VP_SB_FVG_POC",
+          "VP_LVN_TARGET"
+        ]
+      }
+    ],
     "recent_trades": [
       {
         "pair": "ADA",
@@ -1609,7 +1631,7 @@
     "pnl_pct": 0.06,
     "trades_count": 2,
     "loss_streak": 0,
-    "last_update": "2026-03-30T21:59:16.715794+00:00",
+    "last_update": "2026-03-30T22:09:59.470140+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -1680,7 +1702,7 @@
     "pnl_pct": 0.0,
     "trades_count": 0,
     "loss_streak": 0,
-    "last_update": "2026-03-30T21:59:27.501218+00:00",
+    "last_update": "2026-03-30T22:14:30.485119+00:00",
     "positions": [],
     "recent_trades": [],
     "stats": {
