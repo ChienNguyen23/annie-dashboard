@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-03-30 11:30:01",
-  "timestamp_utc": "2026-03-30T04:30:01.210704",
+  "timestamp": "2026-03-30 11:45:02",
+  "timestamp_utc": "2026-03-30T04:45:02.166446",
   "grid_v9": {
     "equity": 515.13,
     "peak": 535.71,
@@ -10,7 +10,7 @@
     "pnl_pct": 3.03,
     "trades_count": 933,
     "total_funding": 0.7531,
-    "last_update": "2026-03-30T11:25:20.590650+00:00",
+    "last_update": "2026-03-30T11:40:26.638154+00:00",
     "positions": [
       {
         "pair": "DOGE",
@@ -1047,7 +1047,7 @@
     "pnl_pct": 13.36,
     "trades_count": 17,
     "loss_streak": 0,
-    "last_update": "2026-03-30T11:25:22.111344+00:00",
+    "last_update": "2026-03-30T11:40:29.500159+00:00",
     "positions": [],
     "recent_trades": [
       {
