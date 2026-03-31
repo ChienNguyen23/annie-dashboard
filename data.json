@@ -1,17 +1,27 @@
 {
-  "timestamp": "2026-03-31 09:15:02",
-  "timestamp_utc": "2026-03-31T02:15:02.374261",
+  "timestamp": "2026-03-31 09:30:02",
+  "timestamp_utc": "2026-03-31T02:30:02.396953",
   "grid_v9": {
-    "equity": 519.31,
+    "equity": 519.3,
     "peak": 535.71,
     "drawdown_pct": 3.06,
     "capital": 500.0,
-    "pnl": 19.31,
+    "pnl": 19.3,
     "pnl_pct": 3.86,
     "trades_count": 978,
     "total_funding": 0.8151,
-    "last_update": "2026-03-31T09:13:29.956958+00:00",
-    "positions": [],
+    "last_update": "2026-03-31T09:28:40.561434+00:00",
+    "positions": [
+      {
+        "pair": "AVAX",
+        "side": "long",
+        "entry": 9.023036273834379,
+        "size": 51.93058685106938,
+        "tp": 9.086197527751219,
+        "sl": 8.928126958420327,
+        "kz": "ASIA"
+      }
+    ],
     "pair_stats": {
       "BTC": {
         "pnl": -0.8513,
@@ -50,8 +60,8 @@
       },
       "AVAX": {
         "pnl": 0.1725,
-        "fees": 3.2252,
-        "trades": 119,
+        "fees": 3.2356,
+        "trades": 120,
         "wins": 70,
         "losses": 49
       },
@@ -1073,7 +1083,7 @@
     "pnl_pct": 9.08,
     "trades_count": 18,
     "loss_streak": 1,
-    "last_update": "2026-03-31T09:12:37.149942+00:00",
+    "last_update": "2026-03-31T09:27:37.328316+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -1589,7 +1599,7 @@
     "pnl_pct": 0.06,
     "trades_count": 2,
     "loss_streak": 0,
-    "last_update": "2026-03-31T09:11:04.365058+00:00",
+    "last_update": "2026-03-31T09:26:09.019143+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -1660,7 +1670,7 @@
     "pnl_pct": 0.0,
     "trades_count": 0,
     "loss_streak": 0,
-    "last_update": "2026-03-31T09:14:35.324305+00:00",
+    "last_update": "2026-03-31T09:29:36.890773+00:00",
     "positions": [],
     "recent_trades": [],
     "stats": {
@@ -1680,9 +1690,9 @@
     ]
   },
   "portfolio": {
-    "total_equity": 100748.98,
+    "total_equity": 100748.97,
     "total_capital": 101500.0,
-    "total_pnl": -751.02,
+    "total_pnl": -751.03,
     "total_pnl_pct": -0.74
   }
 }
