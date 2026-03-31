@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-03-31 08:00:02",
-  "timestamp_utc": "2026-03-31T01:00:02.146267",
+  "timestamp": "2026-03-31 08:15:01",
+  "timestamp_utc": "2026-03-31T01:15:01.676315",
   "grid_v9": {
     "equity": 517.53,
     "peak": 535.71,
@@ -10,7 +10,7 @@
     "pnl_pct": 3.51,
     "trades_count": 965,
     "total_funding": 0.8151,
-    "last_update": "2026-03-31T07:57:28.677668+00:00",
+    "last_update": "2026-03-31T08:12:40.647532+00:00",
     "positions": [
       {
         "pair": "DOGE",
@@ -1079,7 +1079,7 @@
     "pnl_pct": 9.08,
     "trades_count": 18,
     "loss_streak": 1,
-    "last_update": "2026-03-31T07:57:32.762930+00:00",
+    "last_update": "2026-03-31T08:12:33.281992+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -1595,7 +1595,7 @@
     "pnl_pct": 0.06,
     "trades_count": 2,
     "loss_streak": 0,
-    "last_update": "2026-03-31T07:55:34.548582+00:00",
+    "last_update": "2026-03-31T08:10:40.545807+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -1666,7 +1666,7 @@
     "pnl_pct": 0.0,
     "trades_count": 0,
     "loss_streak": 0,
-    "last_update": "2026-03-31T07:59:26.034990+00:00",
+    "last_update": "2026-03-31T08:14:27.370242+00:00",
     "positions": [],
     "recent_trades": [],
     "stats": {
