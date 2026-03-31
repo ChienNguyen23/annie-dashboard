@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-03-31 19:15:01",
-  "timestamp_utc": "2026-03-31T12:15:01.754420",
+  "timestamp": "2026-03-31 19:30:01",
+  "timestamp_utc": "2026-03-31T12:30:01.230275",
   "grid_v9": {
     "equity": 514.26,
     "peak": 535.71,
@@ -10,7 +10,7 @@
     "pnl_pct": 2.85,
     "trades_count": 993,
     "total_funding": 0.8255,
-    "last_update": "2026-03-31T19:13:55.440801+00:00",
+    "last_update": "2026-03-31T19:28:59.597800+00:00",
     "positions": [
       {
         "pair": "SOL",
@@ -1098,7 +1098,7 @@
     "pnl_pct": 9.08,
     "trades_count": 18,
     "loss_streak": 1,
-    "last_update": "2026-03-31T19:13:34.937141+00:00",
+    "last_update": "2026-03-31T19:28:36.313426+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -1614,7 +1614,7 @@
     "pnl_pct": 0.06,
     "trades_count": 2,
     "loss_streak": 0,
-    "last_update": "2026-03-31T19:10:32.700599+00:00",
+    "last_update": "2026-03-31T19:25:40.147131+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -1685,7 +1685,7 @@
     "pnl_pct": 0.0,
     "trades_count": 0,
     "loss_streak": 0,
-    "last_update": "2026-03-31T19:14:26.842531+00:00",
+    "last_update": "2026-03-31T19:29:28.769971+00:00",
     "positions": [],
     "recent_trades": [],
     "stats": {
