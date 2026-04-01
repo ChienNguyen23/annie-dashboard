@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-01 21:00:03",
-  "timestamp_utc": "2026-04-01T14:00:03.225224",
+  "timestamp": "2026-04-01 21:15:02",
+  "timestamp_utc": "2026-04-01T14:15:02.780334",
   "grid_v9": {
     "equity": 520.18,
     "peak": 535.71,
@@ -10,7 +10,7 @@
     "pnl_pct": 4.04,
     "trades_count": 1024,
     "total_funding": 0.8409,
-    "last_update": "2026-04-01T20:57:09.367837+00:00",
+    "last_update": "2026-04-01T21:12:51.924579+00:00",
     "positions": [
       {
         "pair": "ETH",
@@ -1147,7 +1147,7 @@
     "pnl_pct": 9.08,
     "trades_count": 18,
     "loss_streak": 1,
-    "last_update": "2026-04-01T20:56:23.323606+00:00",
+    "last_update": "2026-04-01T21:11:51.811121+00:00",
     "positions": [
       {
         "pair": "PEPE",
@@ -1680,7 +1680,7 @@
     "pnl_pct": 0.06,
     "trades_count": 2,
     "loss_streak": 0,
-    "last_update": "2026-04-01T20:56:46.663932+00:00",
+    "last_update": "2026-04-01T21:12:16.714316+00:00",
     "positions": [
       {
         "pair": "PEPE",
@@ -1698,6 +1698,42 @@
           "REJECT",
           "VP_LVN_TARGET",
           "REJECTION_CANDLE"
+        ]
+      },
+      {
+        "pair": "XRP",
+        "direction": "long",
+        "entry": 1.353555945,
+        "sl": 1.346109925624521,
+        "tp": 1.3707501859386977,
+        "size": 15009.582,
+        "score": 9,
+        "rr": 2.5,
+        "kz": "NY_AM",
+        "quality": [
+          "MACRO",
+          "FVG",
+          "UNICORN",
+          "REJECT",
+          "VP_LVN_TARGET"
+        ]
+      },
+      {
+        "pair": "BTC",
+        "direction": "long",
+        "entry": 68365.253425,
+        "sl": 67943.49230664209,
+        "tp": 69347.89423339478,
+        "size": 15009.582,
+        "score": 10,
+        "rr": 2.5,
+        "kz": "NY_AM",
+        "quality": [
+          "MACRO",
+          "FVG",
+          "UNICORN",
+          "REJECT",
+          "VP_LVN_TARGET"
         ]
       }
     ],
@@ -1770,7 +1806,7 @@
     "pnl_pct": 0.0,
     "trades_count": 0,
     "loss_streak": 0,
-    "last_update": "2026-04-01T20:59:52.185324+00:00",
+    "last_update": "2026-04-01T21:14:19.227495+00:00",
     "positions": [],
     "recent_trades": [],
     "stats": {
