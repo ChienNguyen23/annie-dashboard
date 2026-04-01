@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-04-01 21:45:02",
-  "timestamp_utc": "2026-04-01T14:45:02.755791",
+  "timestamp": "2026-04-01 22:00:02",
+  "timestamp_utc": "2026-04-01T15:00:03.013993",
   "grid_v9": {
-    "equity": 520.48,
+    "equity": 520.83,
     "peak": 535.71,
-    "drawdown_pct": 2.84,
+    "drawdown_pct": 2.78,
     "capital": 500.0,
-    "pnl": 20.48,
-    "pnl_pct": 4.1,
-    "trades_count": 1025,
+    "pnl": 20.83,
+    "pnl_pct": 4.17,
+    "trades_count": 1026,
     "total_funding": 0.8409,
-    "last_update": "2026-04-01T21:44:12.003799+00:00",
+    "last_update": "2026-04-01T21:59:52.372906+00:00",
     "positions": [
       {
         "pair": "BTC",
@@ -46,15 +46,6 @@
         "size": 52.04987148312439,
         "tp": 1.3584113604435353,
         "sl": 1.3386400313330427,
-        "kz": "NY_AM"
-      },
-      {
-        "pair": "ADA",
-        "side": "long",
-        "entry": 0.246962748324112,
-        "size": 52.04883048569472,
-        "tp": 0.24869148756238074,
-        "sl": 0.24386961913439198,
         "kz": "NY_AM"
       },
       {
@@ -106,10 +97,10 @@
         "losses": 44
       },
       "ADA": {
-        "pnl": 7.7335,
-        "fees": 3.5898,
+        "pnl": 8.0874,
+        "fees": 3.6002,
         "trades": 139,
-        "wins": 92,
+        "wins": 93,
         "losses": 46
       },
       "AVAX": {
@@ -135,16 +126,16 @@
       }
     },
     "stats": {
-      "total": 1025,
-      "wins": 641,
+      "total": 1026,
+      "wins": 642,
       "losses": 384,
-      "wr": 62.5,
+      "wr": 62.6,
       "pf": 1.17,
       "avg_win": 0.3501,
       "avg_loss": 0.5005,
       "best": 0.36,
       "worst": -0.79,
-      "total_pnl": 32.23
+      "total_pnl": 32.58
     },
     "equity_curve": [
       500.0,
@@ -1172,7 +1163,8 @@
       531.18,
       531.53,
       531.88,
-      532.23
+      532.23,
+      532.58
     ]
   },
   "ict_2025": {
@@ -1184,7 +1176,7 @@
     "pnl_pct": 9.08,
     "trades_count": 18,
     "loss_streak": 1,
-    "last_update": "2026-04-01T21:43:04.164368+00:00",
+    "last_update": "2026-04-01T21:58:35.428715+00:00",
     "positions": [
       {
         "pair": "PEPE",
@@ -1735,7 +1727,7 @@
     "pnl_pct": 0.06,
     "trades_count": 2,
     "loss_streak": 0,
-    "last_update": "2026-04-01T21:43:19.396901+00:00",
+    "last_update": "2026-04-01T21:58:55.756049+00:00",
     "positions": [
       {
         "pair": "PEPE",
@@ -1861,7 +1853,7 @@
     "pnl_pct": 0.0,
     "trades_count": 0,
     "loss_streak": 0,
-    "last_update": "2026-04-01T21:44:18.408521+00:00",
+    "last_update": "2026-04-01T21:59:49.767075+00:00",
     "positions": [],
     "recent_trades": [],
     "stats": {
@@ -1881,9 +1873,9 @@
     ]
   },
   "portfolio": {
-    "total_equity": 100750.15,
+    "total_equity": 100750.5,
     "total_capital": 101500.0,
-    "total_pnl": -749.85,
+    "total_pnl": -749.5,
     "total_pnl_pct": -0.74
   }
 }
