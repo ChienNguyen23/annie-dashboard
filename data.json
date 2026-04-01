@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-04-01 07:30:02",
-  "timestamp_utc": "2026-04-01T00:30:02.837519",
+  "timestamp": "2026-04-01 07:45:02",
+  "timestamp_utc": "2026-04-01T00:45:02.413583",
   "grid_v9": {
-    "equity": 517.12,
+    "equity": 517.11,
     "peak": 535.71,
     "drawdown_pct": 3.47,
     "capital": 500.0,
-    "pnl": 17.12,
+    "pnl": 17.11,
     "pnl_pct": 3.42,
     "trades_count": 1015,
     "total_funding": 0.8409,
-    "last_update": "2026-04-01T07:28:31.087783+00:00",
+    "last_update": "2026-04-01T07:44:00.624202+00:00",
     "positions": [
       {
         "pair": "ADA",
@@ -19,6 +19,15 @@
         "size": 51.71303492068796,
         "tp": 0.24289960857266243,
         "sl": 0.23848895730319633,
+        "kz": "ASIA"
+      },
+      {
+        "pair": "LINK",
+        "side": "long",
+        "entry": 8.752725879017316,
+        "size": 51.71200065998954,
+        "tp": 8.813994960170437,
+        "sl": 8.667040576560606,
         "kz": "ASIA"
       }
     ],
@@ -74,8 +83,8 @@
       },
       "LINK": {
         "pnl": 6.0414,
-        "fees": 3.2332,
-        "trades": 124,
+        "fees": 3.2436,
+        "trades": 125,
         "wins": 81,
         "losses": 43
       }
@@ -1120,7 +1129,7 @@
     "pnl_pct": 9.08,
     "trades_count": 18,
     "loss_streak": 1,
-    "last_update": "2026-04-01T07:28:54.603362+00:00",
+    "last_update": "2026-04-01T07:44:20.250161+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -1636,7 +1645,7 @@
     "pnl_pct": 0.06,
     "trades_count": 2,
     "loss_streak": 0,
-    "last_update": "2026-04-01T07:29:50.955932+00:00",
+    "last_update": "2026-04-01T07:40:03.206290+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -1707,7 +1716,7 @@
     "pnl_pct": 0.0,
     "trades_count": 0,
     "loss_streak": 0,
-    "last_update": "2026-04-01T07:29:27.606393+00:00",
+    "last_update": "2026-04-01T07:44:47.968924+00:00",
     "positions": [],
     "recent_trades": [],
     "stats": {
@@ -1727,9 +1736,9 @@
     ]
   },
   "portfolio": {
-    "total_equity": 100746.79,
+    "total_equity": 100746.78,
     "total_capital": 101500.0,
-    "total_pnl": -753.21,
+    "total_pnl": -753.22,
     "total_pnl_pct": -0.74
   }
 }
