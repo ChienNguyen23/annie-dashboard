@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-01 10:15:01",
-  "timestamp_utc": "2026-04-01T03:15:01.978018",
+  "timestamp": "2026-04-01 10:30:01",
+  "timestamp_utc": "2026-04-01T03:30:01.992713",
   "grid_v9": {
     "equity": 519.51,
     "peak": 535.71,
@@ -10,7 +10,7 @@
     "pnl_pct": 3.9,
     "trades_count": 1022,
     "total_funding": 0.8409,
-    "last_update": "2026-04-01T10:13:52.547978+00:00",
+    "last_update": "2026-04-01T10:29:16.325957+00:00",
     "positions": [
       {
         "pair": "AVAX",
@@ -1127,7 +1127,7 @@
     "pnl_pct": 9.08,
     "trades_count": 18,
     "loss_streak": 1,
-    "last_update": "2026-04-01T10:13:19.361703+00:00",
+    "last_update": "2026-04-01T10:28:44.699663+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -1643,7 +1643,7 @@
     "pnl_pct": 0.06,
     "trades_count": 2,
     "loss_streak": 0,
-    "last_update": "2026-04-01T10:14:04.395572+00:00",
+    "last_update": "2026-04-01T10:29:27.918439+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -1714,7 +1714,7 @@
     "pnl_pct": 0.0,
     "trades_count": 0,
     "loss_streak": 0,
-    "last_update": "2026-04-01T10:14:04.764641+00:00",
+    "last_update": "2026-04-01T10:29:25.805808+00:00",
     "positions": [],
     "recent_trades": [],
     "stats": {
