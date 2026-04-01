@@ -1,17 +1,45 @@
 {
-  "timestamp": "2026-04-02 01:00:02",
-  "timestamp_utc": "2026-04-01T18:00:03.004003",
+  "timestamp": "2026-04-02 01:15:03",
+  "timestamp_utc": "2026-04-01T18:15:03.247574",
   "grid_v9": {
-    "equity": 520.22,
+    "equity": 520.19,
     "peak": 535.71,
-    "drawdown_pct": 2.89,
+    "drawdown_pct": 2.9,
     "capital": 500.0,
-    "pnl": 20.22,
+    "pnl": 20.19,
     "pnl_pct": 4.04,
     "trades_count": 1033,
     "total_funding": 0.8565,
-    "last_update": "2026-04-02T00:56:41.008846+00:00",
-    "positions": [],
+    "last_update": "2026-04-02T01:12:23.901092+00:00",
+    "positions": [
+      {
+        "pair": "XRP",
+        "side": "long",
+        "entry": 1.3571868647086909,
+        "size": 52.022162442871476,
+        "tp": 1.3666871727616516,
+        "sl": 1.3469040264804182,
+        "kz": "NY_PM"
+      },
+      {
+        "pair": "XRP",
+        "side": "long",
+        "entry": 1.3530737294173818,
+        "size": 52.02112199962262,
+        "tp": 1.3625452455233034,
+        "sl": 1.342790891189109,
+        "kz": "NY_PM"
+      },
+      {
+        "pair": "XRP",
+        "side": "long",
+        "entry": 1.3489605941260727,
+        "size": 52.02008157718262,
+        "tp": 1.358403318284955,
+        "sl": 1.3386777558978,
+        "kz": "NY_PM"
+      }
+    ],
     "pair_stats": {
       "BTC": {
         "pnl": -0.739,
@@ -36,8 +64,8 @@
       },
       "XRP": {
         "pnl": 3.4828,
-        "fees": 3.0038,
-        "trades": 111,
+        "fees": 3.035,
+        "trades": 114,
         "wins": 67,
         "losses": 44
       },
@@ -1128,8 +1156,26 @@
     "pnl_pct": 16.18,
     "trades_count": 21,
     "loss_streak": 0,
-    "last_update": "2026-04-02T00:55:34.282985+00:00",
-    "positions": [],
+    "last_update": "2026-04-02T01:11:13.672691+00:00",
+    "positions": [
+      {
+        "pair": "BTC",
+        "direction": "long",
+        "entry": 68031.5,
+        "sl": 67698.81470687091,
+        "tp": 68863.21323282273,
+        "size": 1781.8415406177203,
+        "score": 8,
+        "rr": 2.5,
+        "kz": "NY_PM",
+        "quality": [
+          "STRONG_TREND",
+          "VP_BELOW_VA_LONG",
+          "VP_DEEP_DISCOUNT",
+          "VP_LVN_TARGET"
+        ]
+      }
+    ],
     "recent_trades": [
       {
         "pair": "DOGE",
@@ -1686,7 +1732,7 @@
     "pnl_pct": 0.78,
     "trades_count": 6,
     "loss_streak": 0,
-    "last_update": "2026-04-02T00:55:28.895490+00:00",
+    "last_update": "2026-04-02T01:11:02.155611+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -1837,7 +1883,7 @@
     "pnl_pct": 0.0,
     "trades_count": 0,
     "loss_streak": 0,
-    "last_update": "2026-04-02T00:59:01.996264+00:00",
+    "last_update": "2026-04-02T01:14:36.322526+00:00",
     "positions": [],
     "recent_trades": [],
     "stats": {
@@ -1857,9 +1903,9 @@
     ]
   },
   "portfolio": {
-    "total_equity": 101143.77,
+    "total_equity": 101143.74,
     "total_capital": 101500.0,
-    "total_pnl": -356.23,
+    "total_pnl": -356.26,
     "total_pnl_pct": -0.35
   }
 }
