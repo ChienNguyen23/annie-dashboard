@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-02 02:15:03",
-  "timestamp_utc": "2026-04-01T19:15:03.084542",
+  "timestamp": "2026-04-02 02:30:03",
+  "timestamp_utc": "2026-04-01T19:30:03.525696",
   "grid_v9": {
     "equity": 520.09,
     "peak": 535.71,
@@ -10,7 +10,7 @@
     "pnl_pct": 4.02,
     "trades_count": 1035,
     "total_funding": 0.8565,
-    "last_update": "2026-04-02T02:10:05.977773+00:00",
+    "last_update": "2026-04-02T02:25:49.882399+00:00",
     "positions": [
       {
         "pair": "DOGE",
@@ -1167,7 +1167,7 @@
     "pnl_pct": 16.18,
     "trades_count": 21,
     "loss_streak": 0,
-    "last_update": "2026-04-02T02:13:34.109910+00:00",
+    "last_update": "2026-04-02T02:29:10.149829+00:00",
     "positions": [
       {
         "pair": "BTC",
@@ -1761,7 +1761,7 @@
     "pnl_pct": 0.78,
     "trades_count": 6,
     "loss_streak": 0,
-    "last_update": "2026-04-02T02:13:30.697101+00:00",
+    "last_update": "2026-04-02T02:29:08.815427+00:00",
     "positions": [
       {
         "pair": "BTC",
@@ -1814,6 +1814,25 @@
           "STRONG_TREND",
           "REJECT",
           "VP_POC_SUPPORT",
+          "VP_LVN_TARGET"
+        ]
+      },
+      {
+        "pair": "XRP",
+        "direction": "long",
+        "entry": 1.34790425,
+        "sl": 1.3396648009999998,
+        "tp": 1.3670879975,
+        "size": 15117.099,
+        "score": 11,
+        "rr": 2.5,
+        "kz": "NY_PM",
+        "quality": [
+          "SB",
+          "STRONG_TREND",
+          "FVG",
+          "UNICORN",
+          "REJECT",
           "VP_LVN_TARGET"
         ]
       }
@@ -1967,7 +1986,7 @@
     "pnl_pct": 0.0,
     "trades_count": 0,
     "loss_streak": 0,
-    "last_update": "2026-04-02T02:14:51.803317+00:00",
+    "last_update": "2026-04-02T02:29:24.052631+00:00",
     "positions": [],
     "recent_trades": [],
     "stats": {
