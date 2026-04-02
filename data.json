@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-02 22:00:03",
-  "timestamp_utc": "2026-04-02T15:00:03.574752",
+  "timestamp": "2026-04-02 22:15:03",
+  "timestamp_utc": "2026-04-02T15:15:03.031250",
   "grid_v9": {
     "equity": 515.52,
     "peak": 535.71,
@@ -10,7 +10,7 @@
     "pnl_pct": 3.1,
     "trades_count": 1078,
     "total_funding": 0.8981,
-    "last_update": "2026-04-02T21:55:26.175858+00:00",
+    "last_update": "2026-04-02T22:11:27.733017+00:00",
     "positions": [],
     "pair_stats": {
       "BTC": {
@@ -1173,7 +1173,7 @@
     "pnl_pct": 13.39,
     "trades_count": 26,
     "loss_streak": 1,
-    "last_update": "2026-04-02T21:55:46.937165+00:00",
+    "last_update": "2026-04-02T22:11:37.517129+00:00",
     "positions": [
       {
         "pair": "FIL",
@@ -1772,8 +1772,30 @@
     "pnl_pct": 0.58,
     "trades_count": 10,
     "loss_streak": 0,
-    "last_update": "2026-04-02T21:59:27.757537+00:00",
-    "positions": [],
+    "last_update": "2026-04-02T22:10:08.450250+00:00",
+    "positions": [
+      {
+        "pair": "SOL",
+        "direction": "short",
+        "entry": 79.1812385,
+        "sl": 80.04215674955796,
+        "tp": 77.11210812610514,
+        "size": 15086.267999999998,
+        "score": 13,
+        "rr": 2.5,
+        "kz": "NY_AM",
+        "quality": [
+          "SB",
+          "MACRO",
+          "STRONG_TREND",
+          "OB",
+          "VP_POC_RESIST",
+          "VP_FVG_POC",
+          "VP_SB_FVG_POC",
+          "VP_LVN_TARGET"
+        ]
+      }
+    ],
     "recent_trades": [
       {
         "pair": "XRP",
@@ -2004,7 +2026,7 @@
     "pnl_pct": 0.0,
     "trades_count": 0,
     "loss_streak": 0,
-    "last_update": "2026-04-02T21:59:25.183457+00:00",
+    "last_update": "2026-04-02T22:14:14.590702+00:00",
     "positions": [],
     "recent_trades": [],
     "stats": {
