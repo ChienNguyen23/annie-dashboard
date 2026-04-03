@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-04 00:15:04",
-  "timestamp_utc": "2026-04-03T17:15:04.786762",
+  "timestamp": "2026-04-04 00:15:44",
+  "timestamp_utc": "2026-04-03T17:15:44.567836",
   "grid_v9": {
     "equity": 520.47,
     "peak": 535.71,
@@ -1220,7 +1220,7 @@
     "profit_target": 3000.0,
     "drawdown_pct": 0.0,
     "trades_count": 0,
-    "last_update": "2026-04-03T17:14:32.056537+00:00",
+    "last_update": "2026-04-03T17:15:37.886927+00:00",
     "positions": [],
     "recent_trades": [],
     "stats": {
@@ -1495,37 +1495,10 @@
     "ws_monitor": true,
     "max_dd_pct": 0.29
   },
-  "orderflow_v4": {
-    "equity": 500.0,
-    "peak": 500.0,
-    "drawdown_pct": 0.0,
-    "capital": 500.0,
-    "pnl": 0.0,
-    "pnl_pct": 0.0,
-    "trades_count": 0,
-    "loss_streak": 0,
-    "last_update": "2026-04-04T00:14:08.487121+00:00",
-    "positions": [],
-    "recent_trades": [],
-    "stats": {
-      "total": 0,
-      "wins": 0,
-      "losses": 0,
-      "wr": 0,
-      "pf": 0,
-      "avg_win": 0,
-      "avg_loss": 0,
-      "best": 0,
-      "worst": 0,
-      "total_pnl": 0
-    },
-    "equity_curve": [
-      500.0
-    ]
-  },
+  "orderflow_v4": null,
   "portfolio": {
-    "total_equity": 101276.11,
-    "total_capital": 101000.0,
+    "total_equity": 100776.11,
+    "total_capital": 100500.0,
     "total_pnl": 276.11,
     "total_pnl_pct": 0.27
   }
