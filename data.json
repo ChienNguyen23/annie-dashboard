@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-03 22:45:04",
-  "timestamp_utc": "2026-04-03T15:45:04.767335",
+  "timestamp": "2026-04-03 23:00:04",
+  "timestamp_utc": "2026-04-03T16:00:04.764119",
   "grid_v9": {
     "equity": 520.13,
     "peak": 535.71,
@@ -10,7 +10,7 @@
     "pnl_pct": 4.03,
     "trades_count": 1098,
     "total_funding": 0.9032,
-    "last_update": "2026-04-03T22:40:34.341051+00:00",
+    "last_update": "2026-04-03T22:57:25.852748+00:00",
     "positions": [
       {
         "pair": "XRP",
@@ -1213,26 +1213,28 @@
     ]
   },
   "ict_2025": {
-    "equity": 568.68,
+    "equity": 583.87,
     "peak": 586.25,
-    "drawdown_pct": 3.0,
+    "drawdown_pct": 0.41,
     "capital": 500.0,
-    "pnl": 68.68,
-    "pnl_pct": 13.74,
-    "trades_count": 27,
+    "pnl": 83.87,
+    "pnl_pct": 16.77,
+    "trades_count": 28,
     "loss_streak": 0,
-    "last_update": "2026-04-03T22:44:55.822471+00:00",
-    "positions": [
+    "last_update": "2026-04-03T22:56:08.711962+00:00",
+    "positions": [],
+    "recent_trades": [
       {
         "pair": "UNI",
         "direction": "short",
         "entry": 3.1935000000000002,
-        "sl": 3.1590163876428523,
-        "tp": 3.1503954845535653,
-        "size": 716.2440533258209,
+        "exit": 3.159751628124499,
+        "pnl": 15.19,
         "score": 9,
-        "rr": 2.5,
+        "rr_actual": 1.2,
         "kz": "NY_AM",
+        "entry_time": "2026-04-03 13:53",
+        "exit_time": "2026-04-03 22:56",
         "quality": [
           "MACRO",
           "FVG",
@@ -1240,9 +1242,7 @@
           "REJECT",
           "VP_LVN_TARGET"
         ]
-      }
-    ],
-    "recent_trades": [
+      },
       {
         "pair": "FIL",
         "direction": "short",
@@ -1599,38 +1599,19 @@
           "UNICORN",
           "REJECT"
         ]
-      },
-      {
-        "pair": "ETH",
-        "direction": "long",
-        "entry": 2051.295,
-        "exit": 2118.0966501940643,
-        "pnl": 33.48,
-        "score": 11,
-        "rr_actual": 2.6,
-        "kz": "NY_PM",
-        "entry_time": "2026-03-12 19:20",
-        "exit_time": "2026-03-13 07:23",
-        "quality": [
-          "SB",
-          "STRONG_TREND",
-          "FVG",
-          "UNICORN",
-          "REJECT"
-        ]
       }
     ],
     "stats": {
-      "total": 27,
-      "wins": 18,
+      "total": 28,
+      "wins": 19,
       "losses": 9,
-      "wr": 66.7,
-      "pf": 1.61,
-      "avg_win": 10.0628,
+      "wr": 67.9,
+      "pf": 1.75,
+      "avg_win": 10.3326,
       "avg_loss": 12.4944,
       "best": 33.48,
       "worst": -21.39,
-      "total_pnl": 68.68
+      "total_pnl": 83.87
     },
     "equity_curve": [
       500.0,
@@ -1660,7 +1641,8 @@
       581.75,
       581.86,
       566.96,
-      568.68
+      568.68,
+      583.87
     ],
     "daily_loss": {
       "2026-03-11": -14.63,
@@ -1824,7 +1806,7 @@
     "pnl_pct": 0.51,
     "trades_count": 11,
     "loss_streak": 1,
-    "last_update": "2026-04-03T22:43:28.372239+00:00",
+    "last_update": "2026-04-03T22:54:38.101795+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -2079,7 +2061,7 @@
     "pnl_pct": 0.0,
     "trades_count": 0,
     "loss_streak": 0,
-    "last_update": "2026-04-03T22:44:31.815070+00:00",
+    "last_update": "2026-04-03T22:58:59.372471+00:00",
     "positions": [],
     "recent_trades": [],
     "stats": {
@@ -2099,9 +2081,9 @@
     ]
   },
   "portfolio": {
-    "total_equity": 100996.77,
+    "total_equity": 101011.96,
     "total_capital": 101500.0,
-    "total_pnl": -503.23,
-    "total_pnl_pct": -0.5
+    "total_pnl": -488.04,
+    "total_pnl_pct": -0.48
   }
 }
