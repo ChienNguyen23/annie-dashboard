@@ -1,22 +1,32 @@
 {
-  "timestamp": "2026-04-03 14:45:05",
-  "timestamp_utc": "2026-04-03T07:45:05.217900",
+  "timestamp": "2026-04-03 14:58:39",
+  "timestamp_utc": "2026-04-03T07:58:39.529398",
   "grid_v9": {
-    "equity": 517.45,
+    "equity": 517.44,
     "peak": 535.71,
     "drawdown_pct": 3.41,
     "capital": 500.0,
-    "pnl": 17.45,
+    "pnl": 17.44,
     "pnl_pct": 3.49,
     "trades_count": 1088,
     "total_funding": 0.8981,
-    "last_update": "2026-04-03T14:41:27.886092+00:00",
-    "positions": [],
+    "last_update": "2026-04-03T14:58:15.041792+00:00",
+    "positions": [
+      {
+        "pair": "BTC",
+        "side": "long",
+        "entry": 66980.72850000001,
+        "size": 51.74513467227138,
+        "tp": 67449.5935995,
+        "sl": 66561.04975000002,
+        "kz": "LONDON"
+      }
+    ],
     "pair_stats": {
       "BTC": {
         "pnl": -1.2847,
-        "fees": 3.583,
-        "trades": 127,
+        "fees": 3.5933,
+        "trades": 128,
         "wins": 67,
         "losses": 60
       },
@@ -1183,7 +1193,7 @@
     "pnl_pct": 13.74,
     "trades_count": 27,
     "loss_streak": 0,
-    "last_update": "2026-04-03T14:41:32.921417+00:00",
+    "last_update": "2026-04-03T14:58:16.924664+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -1767,7 +1777,7 @@
     "pnl_pct": 0.51,
     "trades_count": 11,
     "loss_streak": 1,
-    "last_update": "2026-04-03T14:40:34.701422+00:00",
+    "last_update": "2026-04-03T14:57:16.966071+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -2022,7 +2032,7 @@
     "pnl_pct": 0.0,
     "trades_count": 0,
     "loss_streak": 0,
-    "last_update": "2026-04-03T14:44:52.239143+00:00",
+    "last_update": "2026-04-03T14:58:09.566425+00:00",
     "positions": [],
     "recent_trades": [],
     "stats": {
@@ -2042,9 +2052,9 @@
     ]
   },
   "portfolio": {
-    "total_equity": 100994.09,
+    "total_equity": 100994.08,
     "total_capital": 101500.0,
-    "total_pnl": -505.91,
+    "total_pnl": -505.92,
     "total_pnl_pct": -0.5
   }
 }
