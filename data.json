@@ -1,27 +1,17 @@
 {
-  "timestamp": "2026-04-06 16:39:08",
-  "timestamp_utc": "2026-04-06T09:39:08.962796",
+  "timestamp": "2026-04-06 16:45:03",
+  "timestamp_utc": "2026-04-06T09:45:03.159372",
   "grid_v9": {
-    "equity": 523.09,
+    "equity": 523.44,
     "peak": 535.71,
-    "drawdown_pct": 2.36,
+    "drawdown_pct": 2.29,
     "capital": 500.0,
-    "pnl": 23.09,
-    "pnl_pct": 4.62,
-    "trades_count": 1121,
+    "pnl": 23.44,
+    "pnl_pct": 4.69,
+    "trades_count": 1122,
     "total_funding": 0.9292,
-    "last_update": "2026-04-06T16:35:36.703053+00:00",
-    "positions": [
-      {
-        "pair": "SOL",
-        "side": "short",
-        "entry": 83.10514653507029,
-        "size": 52.30996518618514,
-        "tp": 82.52341050932479,
-        "sl": 83.86801287274602,
-        "kz": "LONDON"
-      }
-    ],
+    "last_update": "2026-04-06T16:41:00.240188+00:00",
+    "positions": [],
     "pair_stats": {
       "BTC": {
         "pnl": -0.9297,
@@ -66,10 +56,10 @@
         "losses": 53
       },
       "SOL": {
-        "pnl": 4.5349,
-        "fees": 4.4923,
+        "pnl": 4.8906,
+        "fees": 4.5027,
         "trades": 171,
-        "wins": 108,
+        "wins": 109,
         "losses": 62
       },
       "LINK": {
@@ -81,8 +71,8 @@
       }
     },
     "stats": {
-      "total": 1121,
-      "wins": 703,
+      "total": 1122,
+      "wins": 704,
       "losses": 418,
       "wr": 62.7,
       "pf": 1.17,
@@ -90,7 +80,7 @@
       "avg_loss": 0.5034,
       "best": 0.36,
       "worst": -0.82,
-      "total_pnl": 35.75
+      "total_pnl": 36.11
     },
     "equity_curve": [
       500.0,
@@ -1214,7 +1204,8 @@
       535.53,
       535.89,
       535.39,
-      535.75
+      535.75,
+      536.11
     ]
   },
   "ict_2025": null,
@@ -1233,7 +1224,7 @@
     "profit_target": 3000.0,
     "drawdown_pct": 0.0,
     "trades_count": 0,
-    "last_update": "2026-04-06T09:38:17.832609+00:00",
+    "last_update": "2026-04-06T09:44:40.831460+00:00",
     "positions": [],
     "recent_trades": [],
     "stats": {
@@ -1262,7 +1253,7 @@
     "pnl_pct": 0.51,
     "trades_count": 11,
     "loss_streak": 1,
-    "last_update": "2026-04-06T16:38:56.625639+00:00",
+    "last_update": "2026-04-06T16:44:15.129749+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -1510,9 +1501,9 @@
   },
   "orderflow_v4": null,
   "portfolio": {
-    "total_equity": 100778.73,
+    "total_equity": 100779.08,
     "total_capital": 100500.0,
-    "total_pnl": 278.73,
+    "total_pnl": 279.08,
     "total_pnl_pct": 0.28
   }
 }
