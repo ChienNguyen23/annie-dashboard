@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-07 06:28:54",
-  "timestamp_utc": "2026-04-06T23:28:54.760258",
+  "timestamp": "2026-04-07 06:30:02",
+  "timestamp_utc": "2026-04-06T23:30:03.002462",
   "grid_v9": {
     "equity": 522.96,
     "peak": 535.71,
@@ -1225,7 +1225,7 @@
     "profit_target": 3000.0,
     "drawdown_pct": 0.0,
     "trades_count": 0,
-    "last_update": "2026-04-06T23:27:56.181354+00:00",
+    "last_update": "2026-04-06T23:30:02.566631+00:00",
     "positions": [],
     "recent_trades": [],
     "stats": {
