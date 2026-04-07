@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-07 21:15:01",
-  "timestamp_utc": "2026-04-07T14:15:01.877148",
+  "timestamp": "2026-04-07 21:30:01",
+  "timestamp_utc": "2026-04-07T14:30:01.660450",
   "grid_v9": {
     "equity": 521.05,
     "peak": 535.71,
@@ -10,7 +10,7 @@
     "pnl_pct": 4.21,
     "trades_count": 1143,
     "total_funding": 0.9708,
-    "last_update": "2026-04-07T21:10:42.533934+00:00",
+    "last_update": "2026-04-07T21:25:57.420412+00:00",
     "positions": [
       {
         "pair": "ETH",
@@ -1300,7 +1300,7 @@
     "profit_target": 3000.0,
     "drawdown_pct": 0.0,
     "trades_count": 0,
-    "last_update": "2026-04-07T14:14:46.369142+00:00",
+    "last_update": "2026-04-07T14:28:50.221055+00:00",
     "positions": [],
     "recent_trades": [],
     "stats": {
@@ -1329,7 +1329,7 @@
     "pnl_pct": 0.51,
     "trades_count": 11,
     "loss_streak": 1,
-    "last_update": "2026-04-07T21:13:16.482966+00:00",
+    "last_update": "2026-04-07T21:28:23.170286+00:00",
     "positions": [],
     "recent_trades": [
       {
