@@ -1,26 +1,17 @@
 {
-  "timestamp": "2026-04-08 21:30:02",
-  "timestamp_utc": "2026-04-08T14:30:02.992211",
+  "timestamp": "2026-04-08 21:33:31",
+  "timestamp_utc": "2026-04-08T14:33:31.083587",
   "grid_v9": {
-    "equity": 523.21,
+    "equity": 522.64,
     "peak": 535.71,
-    "drawdown_pct": 2.33,
+    "drawdown_pct": 2.44,
     "capital": 500.0,
-    "pnl": 23.21,
-    "pnl_pct": 4.64,
-    "trades_count": 1167,
+    "pnl": 22.64,
+    "pnl_pct": 4.53,
+    "trades_count": 1168,
     "total_funding": 1.0125,
-    "last_update": "2026-04-08T21:28:13.996884+00:00",
+    "last_update": "2026-04-08T21:33:26.931687+00:00",
     "positions": [
-      {
-        "pair": "ADA",
-        "side": "long",
-        "entry": 0.2562414149058642,
-        "size": 52.32305089993253,
-        "tp": 0.25803510481020525,
-        "sl": 0.25359495217052486,
-        "kz": "NY_AM"
-      },
       {
         "pair": "ADA",
         "side": "long",
@@ -61,11 +52,11 @@
         "losses": 53
       },
       "ADA": {
-        "pnl": 8.9825,
-        "fees": 3.9538,
+        "pnl": 8.4159,
+        "fees": 3.98,
         "trades": 154,
         "wins": 102,
-        "losses": 50
+        "losses": 51
       },
       "AVAX": {
         "pnl": -0.431,
@@ -90,16 +81,16 @@
       }
     },
     "stats": {
-      "total": 1167,
+      "total": 1168,
       "wins": 730,
-      "losses": 437,
-      "wr": 62.6,
-      "pf": 1.17,
+      "losses": 438,
+      "wr": 62.5,
+      "pf": 1.16,
       "avg_win": 0.3503,
-      "avg_loss": 0.5019,
+      "avg_loss": 0.5021,
       "best": 0.36,
       "worst": -0.82,
-      "total_pnl": 36.41
+      "total_pnl": 35.84
     },
     "equity_curve": [
       500.0,
@@ -1269,28 +1260,42 @@
       538.08,
       537.52,
       536.97,
-      536.41
+      536.41,
+      535.84
     ]
   },
   "ict_2025": null,
   "prediction": null,
   "topstep_50k": {
-    "equity": 50323.83,
+    "equity": 50203.87,
     "peak": 50323.83,
     "floor": 48323.83,
     "floor_locked": false,
     "eod_peak": 50323.83,
     "capital": 50000.0,
-    "pnl": 323.83,
-    "pnl_pct": 0.65,
+    "pnl": 203.87,
+    "pnl_pct": 0.41,
     "trailing_dd": 2000.0,
     "daily_loss_limit": 1000.0,
     "profit_target": 3000.0,
-    "drawdown_pct": 0.0,
-    "trades_count": 3,
-    "last_update": "2026-04-08T14:29:44.342346+00:00",
+    "drawdown_pct": 0.24,
+    "trades_count": 4,
+    "last_update": "2026-04-08T14:32:50.041143+00:00",
     "positions": [],
     "recent_trades": [
+      {
+        "instrument": "?",
+        "direction": "?",
+        "entry": 0,
+        "exit": 0,
+        "pnl": -119.96,
+        "contracts": 4,
+        "score": 0,
+        "result": "?",
+        "kz": "?",
+        "entry_time": "2026-04-08T14:02:17.548388+00:00",
+        "exit_time": "2026-04-08T14:32:50.037276+00:00"
+      },
       {
         "instrument": "?",
         "direction": "?",
@@ -1332,25 +1337,27 @@
       }
     ],
     "stats": {
-      "total": 3,
+      "total": 4,
       "wins": 2,
-      "losses": 1,
-      "wr": 66.7,
-      "pf": 3.23,
+      "losses": 2,
+      "wr": 50.0,
+      "pf": 1.77,
       "avg_win": 234.405,
-      "avg_loss": 144.98,
+      "avg_loss": 132.47,
       "best": 266.28,
       "worst": -144.98,
-      "total_pnl": 323.83
+      "total_pnl": 203.87
     },
     "equity_curve": [
       50000.0,
       50266.28,
       50121.3,
-      50323.83
+      50323.83,
+      50203.87
     ],
     "daily_pnl": {
-      "2026-04-07": 323.83
+      "2026-04-07": 323.83,
+      "2026-04-08": -119.96000000000001
     }
   },
   "v16_50k": {
@@ -1362,7 +1369,7 @@
     "pnl_pct": 0.51,
     "trades_count": 11,
     "loss_streak": 1,
-    "last_update": "2026-04-08T21:25:26.805462+00:00",
+    "last_update": "2026-04-08T21:30:37.099895+00:00",
     "positions": [
       {
         "pair": "SOL",
@@ -1627,9 +1634,9 @@
   },
   "orderflow_v4": null,
   "portfolio": {
-    "total_equity": 101102.68,
+    "total_equity": 100982.15,
     "total_capital": 100500.0,
-    "total_pnl": 602.68,
-    "total_pnl_pct": 0.6
+    "total_pnl": 482.15,
+    "total_pnl_pct": 0.48
   }
 }
