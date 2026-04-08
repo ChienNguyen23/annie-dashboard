@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-09 05:00:03",
-  "timestamp_utc": "2026-04-08T22:00:03.355058",
+  "timestamp": "2026-04-09 05:03:41",
+  "timestamp_utc": "2026-04-08T22:03:41.893414",
   "v16_50k": {
     "equity": 50334.5,
     "peak": 50402.11,
@@ -10,7 +10,7 @@
     "pnl_pct": 0.67,
     "trades_count": 12,
     "loss_streak": 0,
-    "last_update": "2026-04-09T04:58:19.567642+00:00",
+    "last_update": "2026-04-09T05:03:30.958671+00:00",
     "positions": [
       {
         "pair": "SOL",
@@ -382,9 +382,9 @@
   "topstep_champion": {
     "equity": 50338.93,
     "peak": 50391.4,
-    "floor": 48323.83,
+    "floor": 48338.93,
     "floor_locked": false,
-    "eod_peak": 50323.83,
+    "eod_peak": 50338.93,
     "capital": 50000.0,
     "pnl": 338.93,
     "pnl_pct": 0.68,
@@ -393,7 +393,7 @@
     "profit_target": 3000.0,
     "drawdown_pct": 0.1,
     "trades_count": 6,
-    "last_update": "2026-04-08T20:59:35.183334+00:00",
+    "last_update": "2026-04-08T22:03:36.361110+00:00",
     "positions": [],
     "recent_trades": [
       {
