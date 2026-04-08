@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-09 02:03:39",
-  "timestamp_utc": "2026-04-08T19:03:39.013639",
+  "timestamp": "2026-04-09 02:15:03",
+  "timestamp_utc": "2026-04-08T19:15:03.390870",
   "v16_50k": {
     "equity": 50255.64,
     "peak": 50402.11,
@@ -10,7 +10,7 @@
     "pnl_pct": 0.51,
     "trades_count": 11,
     "loss_streak": 1,
-    "last_update": "2026-04-09T02:01:23.360044+00:00",
+    "last_update": "2026-04-09T02:11:54.681295+00:00",
     "positions": [
       {
         "pair": "SOL",
@@ -25,6 +25,59 @@
         "quality": [
           "MACRO",
           "OB",
+          "VP_LVN_TARGET"
+        ]
+      },
+      {
+        "pair": "BTC",
+        "direction": "long",
+        "entry": 71059.81155,
+        "sl": 70756.37857715414,
+        "tp": 71743.80355711465,
+        "size": 15076.692,
+        "score": 10,
+        "rr": 2.5000000000000258,
+        "kz": "NY_PM",
+        "quality": [
+          "SB",
+          "STRONG_TREND",
+          "VP_OB_STRONG",
+          "VP_LVN_TARGET"
+        ]
+      },
+      {
+        "pair": "ETH",
+        "direction": "long",
+        "entry": 2199.469643,
+        "sl": 2187.5138532103747,
+        "tp": 2227.050366974063,
+        "size": 15076.692,
+        "score": 9,
+        "rr": 2.49999999999998,
+        "kz": "NY_PM",
+        "quality": [
+          "SB",
+          "STRONG_TREND",
+          "VP_BELOW_VA_LONG",
+          "VP_DEEP_DISCOUNT",
+          "VP_LVN_TARGET"
+        ]
+      },
+      {
+        "pair": "DOGE",
+        "direction": "long",
+        "entry": 0.09297788500000001,
+        "sl": 0.09239230000000001,
+        "tp": 0.09434424999999999,
+        "size": 15076.692,
+        "score": 11,
+        "rr": 2.5,
+        "kz": "NY_PM",
+        "quality": [
+          "SB",
+          "STRONG_TREND",
+          "VP_BELOW_VA_LONG",
+          "VP_DEEP_DISCOUNT",
           "VP_LVN_TARGET"
         ]
       }
@@ -334,7 +387,7 @@
     "profit_target": 3000.0,
     "drawdown_pct": 0.1,
     "trades_count": 6,
-    "last_update": "2026-04-08T19:03:27.485425+00:00",
+    "last_update": "2026-04-08T19:14:54.999401+00:00",
     "positions": [],
     "recent_trades": [
       {
