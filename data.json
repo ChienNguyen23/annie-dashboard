@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-09 06:18:48",
-  "timestamp_utc": "2026-04-08T23:18:48.842132",
+  "timestamp": "2026-04-09 06:30:02",
+  "timestamp_utc": "2026-04-08T23:30:02.812464",
   "v16_50k": {
     "equity": 50344.55,
     "peak": 50402.11,
@@ -10,7 +10,7 @@
     "pnl_pct": 0.69,
     "trades_count": 14,
     "loss_streak": 0,
-    "last_update": "2026-04-09T06:16:22.944639+00:00",
+    "last_update": "2026-04-09T06:26:40.646842+00:00",
     "positions": [
       {
         "pair": "SOL",
@@ -405,7 +405,7 @@
     "profit_target": 3000.0,
     "drawdown_pct": 0.1,
     "trades_count": 6,
-    "last_update": "2026-04-08T23:18:29.566960+00:00",
+    "last_update": "2026-04-08T23:29:47.367734+00:00",
     "positions": [],
     "recent_trades": [
       {
