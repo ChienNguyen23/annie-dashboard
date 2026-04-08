@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-08 21:33:31",
-  "timestamp_utc": "2026-04-08T14:33:31.083587",
+  "timestamp": "2026-04-08 21:45:03",
+  "timestamp_utc": "2026-04-08T14:45:03.277709",
   "grid_v9": {
     "equity": 522.64,
     "peak": 535.71,
@@ -10,7 +10,7 @@
     "pnl_pct": 4.53,
     "trades_count": 1168,
     "total_funding": 1.0125,
-    "last_update": "2026-04-08T21:33:26.931687+00:00",
+    "last_update": "2026-04-08T21:43:53.755682+00:00",
     "positions": [
       {
         "pair": "ADA",
@@ -1280,7 +1280,7 @@
     "profit_target": 3000.0,
     "drawdown_pct": 0.24,
     "trades_count": 4,
-    "last_update": "2026-04-08T14:32:50.041143+00:00",
+    "last_update": "2026-04-08T14:44:44.359422+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -1369,7 +1369,7 @@
     "pnl_pct": 0.51,
     "trades_count": 11,
     "loss_streak": 1,
-    "last_update": "2026-04-08T21:30:37.099895+00:00",
+    "last_update": "2026-04-08T21:40:57.478335+00:00",
     "positions": [
       {
         "pair": "SOL",
