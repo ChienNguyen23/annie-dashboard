@@ -1,35 +1,36 @@
 {
-  "timestamp": "2026-04-09 09:00:02",
-  "timestamp_utc": "2026-04-09T02:00:02.821190",
+  "timestamp": "2026-04-09 09:03:59",
+  "timestamp_utc": "2026-04-09T02:03:59.192931",
   "v16_50k": {
-    "equity": 50344.55,
+    "equity": 49981.18,
     "peak": 50402.11,
-    "drawdown_pct": 0.11,
+    "drawdown_pct": 0.84,
     "capital": 50000.0,
-    "pnl": 344.55,
-    "pnl_pct": 0.69,
-    "trades_count": 14,
-    "loss_streak": 0,
-    "last_update": "2026-04-09T08:58:06.900439+00:00",
-    "positions": [
+    "pnl": -18.82,
+    "pnl_pct": -0.04,
+    "trades_count": 15,
+    "loss_streak": 1,
+    "last_update": "2026-04-09T09:03:18.788429+00:00",
+    "positions": [],
+    "recent_trades": [
       {
         "pair": "SOL",
         "direction": "long",
-        "entry": 84.0502075,
-        "sl": 79.87178630000001,
-        "tp": 94.40803424999999,
-        "size": 15076.692,
+        "entry": 84.050208,
+        "exit": 82.125355,
+        "pnl": -363.37,
         "score": 10,
-        "rr": 2.4999999999999982,
+        "rr_actual": 0.46,
         "kz": "NY_AM",
+        "entry_time": "2026-04-08 13:59",
+        "exit_time": "2026-04-09 09:03",
         "quality": [
           "MACRO",
           "OB",
           "VP_LVN_TARGET"
-        ]
-      }
-    ],
-    "recent_trades": [
+        ],
+        "result": "TIME"
+      },
       {
         "pair": "ETH",
         "direction": "long",
@@ -315,16 +316,16 @@
       }
     ],
     "stats": {
-      "total": 14,
+      "total": 15,
       "wins": 11,
-      "losses": 3,
-      "wr": 78.6,
-      "pf": 3.25,
+      "losses": 4,
+      "wr": 73.3,
+      "pf": 0.96,
       "avg_win": 45.22,
-      "avg_loss": 50.95,
+      "avg_loss": 129.06,
       "best": 210.63,
-      "worst": -120.86,
-      "total_pnl": 344.55
+      "worst": -363.37,
+      "total_pnl": -18.82
     },
     "equity_curve": [
       {
@@ -386,10 +387,14 @@
       {
         "x": 14,
         "y": 50344.55
+      },
+      {
+        "x": 15,
+        "y": 49981.18
       }
     ],
     "ws_monitor": true,
-    "max_dd_pct": 0.13
+    "max_dd_pct": 0.84
   },
   "topstep_champion": {
     "equity": 50338.93,
@@ -405,7 +410,7 @@
     "profit_target": 3000.0,
     "drawdown_pct": 0.1,
     "trades_count": 6,
-    "last_update": "2026-04-09T01:59:29.962198+00:00",
+    "last_update": "2026-04-09T02:03:40.683753+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -529,11 +534,11 @@
     }
   },
   "portfolio": {
-    "total_equity": 100683.48,
+    "total_equity": 100320.11,
     "total_capital": 100000.0,
-    "total_pnl": 683.48,
-    "total_pnl_pct": 0.68,
-    "total_trades": 20,
+    "total_pnl": 320.11,
+    "total_pnl_pct": 0.32,
+    "total_trades": 21,
     "active_bots": 2
   }
 }
