@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-11 00:01:34",
-  "timestamp_utc": "2026-04-10T17:01:34.170444",
+  "timestamp": "2026-04-11 00:15:01",
+  "timestamp_utc": "2026-04-10T17:15:01.750203",
   "v16_50k": {
     "equity": 49979.46,
     "peak": 50402.11,
@@ -10,7 +10,7 @@
     "pnl_pct": -0.04,
     "trades_count": 17,
     "loss_streak": 0,
-    "last_update": "2026-04-10T23:58:28.774326+00:00",
+    "last_update": "2026-04-11T00:13:51.836147+00:00",
     "positions": [
       {
         "pair": "ADA",
@@ -475,7 +475,7 @@
     "profit_target": 3000.0,
     "drawdown_pct": 0.12,
     "trades_count": 7,
-    "last_update": "2026-04-10T17:00:49.175037+00:00",
+    "last_update": "2026-04-10T17:14:06.107911+00:00",
     "positions": [],
     "recent_trades": [
       {
