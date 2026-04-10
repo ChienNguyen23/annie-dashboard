@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-10 22:31:31",
-  "timestamp_utc": "2026-04-10T15:31:31.362136",
+  "timestamp": "2026-04-10 22:45:02",
+  "timestamp_utc": "2026-04-10T15:45:02.635895",
   "v16_50k": {
     "equity": 49979.46,
     "peak": 50402.11,
@@ -10,8 +10,25 @@
     "pnl_pct": -0.04,
     "trades_count": 17,
     "loss_streak": 0,
-    "last_update": "2026-04-10T22:26:25.269078+00:00",
-    "positions": [],
+    "last_update": "2026-04-10T22:41:47.170444+00:00",
+    "positions": [
+      {
+        "pair": "ADA",
+        "direction": "long",
+        "entry": 0.25457635,
+        "sl": 0.2526150472679608,
+        "tp": 0.259212381830098,
+        "size": 14993.838,
+        "score": 8,
+        "rr": 2.4999999999999853,
+        "kz": "NY_AM",
+        "quality": [
+          "SB",
+          "REJECT",
+          "VP_LVN_TARGET"
+        ]
+      }
+    ],
     "recent_trades": [
       {
         "pair": "XRP",
@@ -458,7 +475,7 @@
     "profit_target": 3000.0,
     "drawdown_pct": 0.12,
     "trades_count": 7,
-    "last_update": "2026-04-10T15:30:58.122636+00:00",
+    "last_update": "2026-04-10T15:44:14.529884+00:00",
     "positions": [],
     "recent_trades": [
       {
