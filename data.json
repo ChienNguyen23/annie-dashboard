@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-11 15:47:27",
-  "timestamp_utc": "2026-04-11T08:47:27.229250",
+  "timestamp": "2026-04-11 16:00:02",
+  "timestamp_utc": "2026-04-11T09:00:02.309191",
   "v16_50k": {
     "equity": 50139.87,
     "peak": 50402.11,
@@ -10,7 +10,7 @@
     "pnl_pct": 0.28,
     "trades_count": 18,
     "loss_streak": 0,
-    "last_update": "2026-04-11T15:44:22.046136+00:00",
+    "last_update": "2026-04-11T16:00:01.578394+00:00",
     "positions": [],
     "recent_trades": [
       {
