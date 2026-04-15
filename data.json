@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-15 20:12:51",
-  "timestamp_utc": "2026-04-15T13:12:51.324654",
+  "timestamp": "2026-04-15 20:15:04",
+  "timestamp_utc": "2026-04-15T13:15:04.074222",
   "v16_50k": {
     "equity": 50021.64,
     "peak": 50402.11,
@@ -10,7 +10,7 @@
     "pnl_pct": 0.04,
     "trades_count": 19,
     "loss_streak": 1,
-    "last_update": "2026-04-15T20:08:18.634598+00:00",
+    "last_update": "2026-04-15T20:13:37.614953+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -501,7 +501,7 @@
     "profit_target": 3000.0,
     "drawdown_pct": 0.12,
     "trades_count": 7,
-    "last_update": "2026-04-15T13:12:46.468037+00:00",
+    "last_update": "2026-04-15T13:14:54.807613+00:00",
     "positions": [],
     "recent_trades": [
       {
