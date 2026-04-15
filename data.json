@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-15 20:58:02",
-  "timestamp_utc": "2026-04-15T13:58:02.120006",
+  "timestamp": "2026-04-15 21:00:04",
+  "timestamp_utc": "2026-04-15T14:00:04.635195",
   "v16_50k": {
     "equity": 50021.64,
     "peak": 50402.11,
@@ -518,7 +518,7 @@
     "profit_target": 3000.0,
     "drawdown_pct": 0.12,
     "trades_count": 7,
-    "last_update": "2026-04-15T13:57:08.551820+00:00",
+    "last_update": "2026-04-15T13:59:19.900347+00:00",
     "positions": [],
     "recent_trades": [
       {
