@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-15 20:45:04",
-  "timestamp_utc": "2026-04-15T13:45:04.171180",
+  "timestamp": "2026-04-15 20:58:02",
+  "timestamp_utc": "2026-04-15T13:58:02.120006",
   "v16_50k": {
     "equity": 50021.64,
     "peak": 50402.11,
@@ -10,8 +10,25 @@
     "pnl_pct": 0.04,
     "trades_count": 19,
     "loss_streak": 1,
-    "last_update": "2026-04-15T20:40:34.174409+00:00",
-    "positions": [],
+    "last_update": "2026-04-15T20:56:48.965441+00:00",
+    "positions": [
+      {
+        "pair": "ETH",
+        "direction": "long",
+        "entry": 2321.826339,
+        "sl": 2310.305546720421,
+        "tp": 2348.1911331989486,
+        "size": 15006.491999999998,
+        "score": 8,
+        "rr": 2.500000000000021,
+        "kz": "NY_AM",
+        "quality": [
+          "MACRO",
+          "STRONG_TREND",
+          "VP_LVN_TARGET"
+        ]
+      }
+    ],
     "recent_trades": [
       {
         "pair": "ADA",
@@ -501,7 +518,7 @@
     "profit_target": 3000.0,
     "drawdown_pct": 0.12,
     "trades_count": 7,
-    "last_update": "2026-04-15T13:44:58.973429+00:00",
+    "last_update": "2026-04-15T13:57:08.551820+00:00",
     "positions": [],
     "recent_trades": [
       {
