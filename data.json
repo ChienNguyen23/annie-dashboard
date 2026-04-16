@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-16 21:00:02",
-  "timestamp_utc": "2026-04-16T14:00:02.271914",
+  "timestamp": "2026-04-16 21:15:02",
+  "timestamp_utc": "2026-04-16T14:15:02.736808",
   "v16_50k": {
     "equity": 50118.4,
     "peak": 50402.11,
@@ -10,8 +10,29 @@
     "pnl_pct": 0.24,
     "trades_count": 20,
     "loss_streak": 0,
-    "last_update": "2026-04-16T20:56:21.989187+00:00",
-    "positions": [],
+    "last_update": "2026-04-16T21:11:39.731337+00:00",
+    "positions": [
+      {
+        "pair": "SUI",
+        "direction": "long",
+        "entry": 0.97269172,
+        "sl": 0.9603432772944547,
+        "tp": 1.0025418067638634,
+        "size": 15035.52,
+        "score": 12,
+        "rr": 2.4999999999999956,
+        "kz": "NY_AM",
+        "quality": [
+          "MACRO",
+          "STRONG_TREND",
+          "OB",
+          "VOL_UP",
+          "VP_POC_SUPPORT",
+          "VP_FVG_POC",
+          "VP_LVN_TARGET"
+        ]
+      }
+    ],
     "recent_trades": [
       {
         "pair": "ETH",
@@ -523,7 +544,7 @@
     "profit_target": 3000.0,
     "drawdown_pct": 0.12,
     "trades_count": 7,
-    "last_update": "2026-04-16T13:59:13.157420+00:00",
+    "last_update": "2026-04-16T14:14:30.516143+00:00",
     "positions": [],
     "recent_trades": [
       {
