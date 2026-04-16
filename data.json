@@ -1,27 +1,29 @@
 {
-  "timestamp": "2026-04-16 21:15:02",
-  "timestamp_utc": "2026-04-16T14:15:02.736808",
+  "timestamp": "2026-04-16 21:30:02",
+  "timestamp_utc": "2026-04-16T14:30:02.549860",
   "v16_50k": {
-    "equity": 50118.4,
+    "equity": 49899.84,
     "peak": 50402.11,
-    "drawdown_pct": 0.56,
+    "drawdown_pct": 1.0,
     "capital": 50000.0,
-    "pnl": 118.4,
-    "pnl_pct": 0.24,
-    "trades_count": 20,
-    "loss_streak": 0,
-    "last_update": "2026-04-16T21:11:39.731337+00:00",
-    "positions": [
+    "pnl": -100.16,
+    "pnl_pct": -0.2,
+    "trades_count": 21,
+    "loss_streak": 1,
+    "last_update": "2026-04-16T21:26:56.055795+00:00",
+    "positions": [],
+    "recent_trades": [
       {
         "pair": "SUI",
         "direction": "long",
-        "entry": 0.97269172,
-        "sl": 0.9603432772944547,
-        "tp": 1.0025418067638634,
-        "size": 15035.52,
+        "entry": 0.972692,
+        "exit": 0.95972,
+        "pnl": -218.56,
         "score": 12,
-        "rr": 2.4999999999999956,
+        "rr_actual": 1.05,
         "kz": "NY_AM",
+        "entry_time": "2026-04-16 14:01",
+        "exit_time": "2026-04-16 21:16",
         "quality": [
           "MACRO",
           "STRONG_TREND",
@@ -30,10 +32,9 @@
           "VP_POC_SUPPORT",
           "VP_FVG_POC",
           "VP_LVN_TARGET"
-        ]
-      }
-    ],
-    "recent_trades": [
+        ],
+        "result": "SL_RT"
+      },
       {
         "pair": "ETH",
         "direction": "long",
@@ -407,39 +408,19 @@
           "REJECTION_CANDLE"
         ],
         "result": "SL_RT"
-      },
-      {
-        "pair": "DOGE",
-        "direction": "long",
-        "entry": 0.095989,
-        "exit": 0.095992,
-        "pnl": 30.73,
-        "score": 9,
-        "rr_actual": 0.0,
-        "kz": "NY_AM",
-        "entry_time": "2026-03-25 15:29",
-        "exit_time": "2026-03-26 01:10",
-        "quality": [
-          "SB",
-          "STRONG_TREND",
-          "REJECT",
-          "CBDR",
-          "VP_LVN_TARGET"
-        ],
-        "result": "SL"
       }
     ],
     "stats": {
-      "total": 20,
+      "total": 21,
       "wins": 14,
-      "losses": 6,
-      "wr": 70.0,
-      "pf": 1.19,
+      "losses": 7,
+      "wr": 66.7,
+      "pf": 0.88,
       "avg_win": 53.9,
-      "avg_loss": 106.04,
+      "avg_loss": 122.11,
       "best": 210.63,
       "worst": -363.37,
-      "total_pnl": 118.4
+      "total_pnl": -100.16
     },
     "equity_curve": [
       {
@@ -525,10 +506,14 @@
       {
         "x": 20,
         "y": 50118.4
+      },
+      {
+        "x": 21,
+        "y": 49899.84
       }
     ],
     "ws_monitor": true,
-    "max_dd_pct": 0.56
+    "max_dd_pct": 1.0
   },
   "topstep_champion": {
     "equity": 50332.73,
@@ -544,7 +529,7 @@
     "profit_target": 3000.0,
     "drawdown_pct": 0.12,
     "trades_count": 7,
-    "last_update": "2026-04-16T14:14:30.516143+00:00",
+    "last_update": "2026-04-16T14:29:48.154311+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -685,11 +670,11 @@
     }
   },
   "portfolio": {
-    "total_equity": 100451.13,
+    "total_equity": 100232.57,
     "total_capital": 100000.0,
-    "total_pnl": 451.13,
-    "total_pnl_pct": 0.45,
-    "total_trades": 27,
+    "total_pnl": 232.57,
+    "total_pnl_pct": 0.23,
+    "total_trades": 28,
     "active_bots": 2
   }
 }
