@@ -1,35 +1,17 @@
 {
-  "timestamp": "2026-04-20 22:17:57",
-  "timestamp_utc": "2026-04-20T15:17:57.626849",
+  "timestamp": "2026-04-20 22:30:03",
+  "timestamp_utc": "2026-04-20T15:30:03.419608",
   "v16_50k": {
-    "equity": 50033.43,
+    "equity": 50048.29,
     "peak": 50402.11,
-    "drawdown_pct": 0.73,
+    "drawdown_pct": 0.7,
     "capital": 50000.0,
-    "pnl": 33.43,
-    "pnl_pct": 0.07,
-    "trades_count": 22,
+    "pnl": 48.29,
+    "pnl_pct": 0.1,
+    "trades_count": 24,
     "loss_streak": 0,
-    "last_update": "2026-04-20T22:16:19.184165+00:00",
+    "last_update": "2026-04-20T22:26:50.137751+00:00",
     "positions": [
-      {
-        "pair": "DOGE",
-        "direction": "short",
-        "entry": 0.09476656149999999,
-        "sl": 0.09473670107499998,
-        "tp": 0.093373075,
-        "size": 10029.867839999999,
-        "score": 8,
-        "rr": 2.5,
-        "kz": "NY_AM",
-        "quality": [
-          "MACRO",
-          "FVG",
-          "UNICORN",
-          "VOL_UP",
-          "VP_LVN_TARGET"
-        ]
-      },
       {
         "pair": "AVAX",
         "direction": "short",
@@ -49,25 +31,109 @@
         ]
       },
       {
+        "pair": "PEPE",
+        "direction": "short",
+        "entry": 3.74137725e-06,
+        "sl": 3.783552e-06,
+        "tp": 3.6398700000000005e-06,
+        "size": 15014.486999999997,
+        "score": 15,
+        "rr": 2.5,
+        "kz": "NY_AM",
+        "quality": [
+          "SB",
+          "MACRO",
+          "STRONG_TREND",
+          "FVG",
+          "UNICORN",
+          "VP_FVG_POC",
+          "VP_LVN_TARGET",
+          "REJECTION_CANDLE"
+        ]
+      },
+      {
+        "pair": "SOL",
+        "direction": "short",
+        "entry": 84.9095195,
+        "sl": 85.671,
+        "tp": 83.095,
+        "size": 15014.486999999997,
+        "score": 15,
+        "rr": 2.4999999999999902,
+        "kz": "NY_AM",
+        "quality": [
+          "SB",
+          "MACRO",
+          "STRONG_TREND",
+          "FVG",
+          "UNICORN",
+          "VP_FVG_POC",
+          "VP_LVN_TARGET"
+        ]
+      },
+      {
+        "pair": "ADA",
+        "direction": "short",
+        "entry": 0.24632608,
+        "sl": 0.24812157203809743,
+        "tp": 0.24209606990475646,
+        "size": 15014.486999999997,
+        "score": 15,
+        "rr": 2.5,
+        "kz": "NY_AM",
+        "quality": [
+          "SB",
+          "MACRO",
+          "STRONG_TREND",
+          "FVG",
+          "UNICORN",
+          "VP_FVG_POC",
+          "VP_SB_FVG_POC",
+          "VP_LVN_TARGET"
+        ]
+      }
+    ],
+    "recent_trades": [
+      {
+        "pair": "DOGE",
+        "direction": "short",
+        "entry": 0.094767,
+        "exit": 0.094797,
+        "pnl": 5.96,
+        "score": 8,
+        "rr_actual": 0.05,
+        "kz": "NY_AM",
+        "entry_time": "2026-04-20 14:02",
+        "exit_time": "2026-04-20 22:21",
+        "quality": [
+          "MACRO",
+          "FVG",
+          "UNICORN",
+          "VOL_UP",
+          "VP_LVN_TARGET"
+        ],
+        "result": "SL_RT"
+      },
+      {
         "pair": "ETH",
         "direction": "short",
         "entry": 2306.757765,
-        "sl": 2305.9983461967227,
-        "tp": 2271.209647336136,
-        "size": 10029.867839999999,
+        "exit": 2307.151345,
+        "pnl": 8.9,
         "score": 11,
-        "rr": 2.4999999999999845,
+        "rr_actual": 0.03,
         "kz": "NY_AM",
+        "entry_time": "2026-04-20 14:18",
+        "exit_time": "2026-04-20 22:21",
         "quality": [
           "MACRO",
           "FVG",
           "UNICORN",
           "VP_FVG_POC",
           "VP_LVN_TARGET"
-        ]
-      }
-    ],
-    "recent_trades": [
+        ],
+        "result": "SL"
+      },
       {
         "pair": "SUI",
         "direction": "short",
@@ -422,59 +488,19 @@
           "VP_LVN_TARGET"
         ],
         "result": "SL"
-      },
-      {
-        "pair": "DOGE",
-        "direction": "long",
-        "entry": 0.092698,
-        "exit": 0.093978,
-        "pnl": 138.11,
-        "score": 8,
-        "rr_actual": 2.19,
-        "kz": "NY_AM",
-        "entry_time": "2026-04-01 15:14",
-        "exit_time": "2026-04-02 00:08",
-        "quality": [
-          "SB",
-          "CONSOL_BAD",
-          "OB",
-          "VP_FVG_POC",
-          "VP_LVN_TARGET"
-        ],
-        "result": "SL"
-      },
-      {
-        "pair": "PEPE",
-        "direction": "long",
-        "entry": 3e-06,
-        "exit": 3e-06,
-        "pnl": 210.63,
-        "score": 10,
-        "rr_actual": 2.61,
-        "kz": "NY_AM",
-        "entry_time": "2026-04-01 13:56",
-        "exit_time": "2026-04-01 23:37",
-        "quality": [
-          "MACRO",
-          "UNICORN",
-          "REJECT",
-          "VP_LVN_TARGET",
-          "REJECTION_CANDLE"
-        ],
-        "result": "SL"
       }
     ],
     "stats": {
-      "total": 22,
-      "wins": 15,
+      "total": 24,
+      "wins": 17,
       "losses": 7,
-      "wr": 68.2,
-      "pf": 1.04,
-      "avg_win": 59.21,
+      "wr": 70.8,
+      "pf": 1.06,
+      "avg_win": 53.12,
       "avg_loss": 122.11,
       "best": 210.63,
       "worst": -363.37,
-      "total_pnl": 33.43
+      "total_pnl": 48.29
     },
     "equity_curve": [
       {
@@ -568,6 +594,14 @@
       {
         "x": 22,
         "y": 50033.43
+      },
+      {
+        "x": 23,
+        "y": 50039.39
+      },
+      {
+        "x": 24,
+        "y": 50048.29
       }
     ],
     "ws_monitor": true,
@@ -587,7 +621,7 @@
     "profit_target": 3000.0,
     "drawdown_pct": 0.12,
     "trades_count": 7,
-    "last_update": "2026-04-20T15:17:34.446769+00:00",
+    "last_update": "2026-04-20T15:29:06.112170+00:00",
     "positions": [],
     "recent_trades": [
       {
@@ -728,11 +762,11 @@
     }
   },
   "portfolio": {
-    "total_equity": 100366.16,
+    "total_equity": 100381.02,
     "total_capital": 100000.0,
-    "total_pnl": 366.16,
-    "total_pnl_pct": 0.37,
-    "total_trades": 29,
+    "total_pnl": 381.02,
+    "total_pnl_pct": 0.38,
+    "total_trades": 31,
     "active_bots": 2
   }
 }
