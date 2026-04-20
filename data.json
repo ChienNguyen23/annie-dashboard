@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-20 21:02:42",
-  "timestamp_utc": "2026-04-20T14:02:42.167665",
+  "timestamp": "2026-04-20 21:15:02",
+  "timestamp_utc": "2026-04-20T14:15:02.441014",
   "v16_50k": {
     "equity": 49899.84,
     "peak": 50402.11,
@@ -10,8 +10,62 @@
     "pnl_pct": -0.2,
     "trades_count": 21,
     "loss_streak": 1,
-    "last_update": "2026-04-20T20:57:35.796726+00:00",
-    "positions": [],
+    "last_update": "2026-04-20T21:13:23.010635+00:00",
+    "positions": [
+      {
+        "pair": "DOGE",
+        "direction": "short",
+        "entry": 0.09476656149999999,
+        "sl": 0.09536376999999999,
+        "tp": 0.093373075,
+        "size": 14969.951999999997,
+        "score": 8,
+        "rr": 2.5,
+        "kz": "NY_AM",
+        "quality": [
+          "MACRO",
+          "FVG",
+          "UNICORN",
+          "VOL_UP",
+          "VP_LVN_TARGET"
+        ]
+      },
+      {
+        "pair": "AVAX",
+        "direction": "short",
+        "entry": 9.243726050000001,
+        "sl": 9.299813394467582,
+        "tp": 9.113216513831048,
+        "size": 14969.951999999997,
+        "score": 8,
+        "rr": 2.499999999999983,
+        "kz": "NY_AM",
+        "quality": [
+          "MACRO",
+          "CONSOL_BAD",
+          "FVG",
+          "UNICORN",
+          "VP_LVN_TARGET"
+        ]
+      },
+      {
+        "pair": "SUI",
+        "direction": "short",
+        "entry": 0.94321695,
+        "sl": 0.9493284643240404,
+        "tp": 0.9289288391898991,
+        "size": 14969.951999999997,
+        "score": 8,
+        "rr": 2.4999999999999907,
+        "kz": "NY_AM",
+        "quality": [
+          "MACRO",
+          "FVG",
+          "UNICORN",
+          "VP_LVN_TARGET"
+        ]
+      }
+    ],
     "recent_trades": [
       {
         "pair": "SUI",
@@ -529,7 +583,7 @@
     "profit_target": 3000.0,
     "drawdown_pct": 0.12,
     "trades_count": 7,
-    "last_update": "2026-04-20T14:02:20.327537+00:00",
+    "last_update": "2026-04-20T14:14:51.966754+00:00",
     "positions": [],
     "recent_trades": [
       {
